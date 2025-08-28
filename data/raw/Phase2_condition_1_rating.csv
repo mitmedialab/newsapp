@@ -1,0 +1,345 @@
+,participant_id,condition,imageid,headline,before_AI_Real_Fake,confidence_rating_before_AI,with_AI_Real_Fake,confidence_rating_with_AI,ground_truth_with_AI,with_AI_seen_before,after_AI_ground_truth,after_AI_Real_Fake,confidence_rating_after_AI
+0,560379c9e372c00011bd4a90,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,85
+1,560379c9e372c00011bd4a90,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,No,Fake,Fake,40
+2,560379c9e372c00011bd4a90,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,No,Real,Real,89
+3,560379c9e372c00011bd4a90,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,100,FAKE,100,Fake,No,Real,Real,22
+4,56b43607c54e3c000d3c9b0b,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,93,REAL,93,Real,No,Fake,Fake,44
+5,56b43607c54e3c000d3c9b0b,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,81,FAKE,81,Fake,No,Fake,Fake,55
+6,56b43607c54e3c000d3c9b0b,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,88,FAKE,88,Fake,No,Real,Real,84
+7,56b43607c54e3c000d3c9b0b,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,95,REAL,95,Real,No,Real,Real,49
+8,57165ba7c5aca2000a8d32ca,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,81,REAL,81,Real,No,Fake,Fake,61
+9,57165ba7c5aca2000a8d32ca,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+10,57165ba7c5aca2000a8d32ca,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,100,FAKE,100,Fake,No,Real,Real,92
+11,57165ba7c5aca2000a8d32ca,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,No,Real,Real,39
+12,5c4f5967aac8be0001716a65,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+13,5c4f5967aac8be0001716a65,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,80
+14,5c4f5967aac8be0001716a65,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,No,Real,Real,72
+15,5c4f5967aac8be0001716a65,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,Yes,Real,Fake,50
+16,5caccbc4976d010014b9cd9d,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,99,FAKE,99,Fake,No,Fake,Fake,80
+17,5caccbc4976d010014b9cd9d,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,70
+18,5caccbc4976d010014b9cd9d,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,99,REAL,99,Real,No,Real,Fake,40
+19,5caccbc4976d010014b9cd9d,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Real,Fake,90
+20,5d07fc124e753800168ccafe,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+21,5d07fc124e753800168ccafe,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,90,REAL,90,Real,No,Fake,Fake,100
+22,5d07fc124e753800168ccafe,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,90,REAL,90,Real,No,Real,Real,60
+23,5d07fc124e753800168ccafe,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,100,FAKE,100,Fake,Yes,Real,Real,30
+24,5d20189bb34728001a230962,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,REAL,8,REAL,8,Fake,No,Fake,Fake,8
+25,5d20189bb34728001a230962,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,REAL,6,REAL,6,Fake,No,Fake,Fake,8
+26,5d20189bb34728001a230962,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,13,REAL,13,Real,No,Real,Real,10
+27,5d20189bb34728001a230962,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,21,REAL,21,Real,No,Real,Real,10
+28,5d8cef3c28e183001a335ab0,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,70,REAL,70,Real,No,Fake,Fake,73
+29,5d8cef3c28e183001a335ab0,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,71,FAKE,71,Fake,No,Fake,Real,26
+30,5d8cef3c28e183001a335ab0,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,90,REAL,90,Real,No,Real,Real,31
+31,5d8cef3c28e183001a335ab0,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,99,FAKE,99,Fake,No,Real,Fake,63
+32,5deb341d35575a2547b1f85a,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,86,REAL,86,Real,No,Fake,Fake,78
+33,5deb341d35575a2547b1f85a,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,86,FAKE,86,Fake,No,Fake,Fake,61
+34,5deb341d35575a2547b1f85a,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,92,REAL,92,Real,No,Real,Fake,51
+35,5deb341d35575a2547b1f85a,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,83,FAKE,83,Fake,No,Real,Real,57
+36,5e06ecd524f9390991997bb7,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,93,REAL,93,Real,No,Fake,Fake,62
+37,5e06ecd524f9390991997bb7,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,99,FAKE,99,Fake,No,Fake,Fake,54
+38,5e06ecd524f9390991997bb7,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,94,FAKE,94,Fake,No,Real,Fake,52
+39,5e06ecd524f9390991997bb7,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,75,REAL,75,Real,No,Real,Real,66
+40,5e27727328b7b698b037ee6c,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,62,REAL,62,Real,No,Fake,Fake,32
+41,5e27727328b7b698b037ee6c,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,55,REAL,55,Fake,No,Fake,Real,31
+42,5e27727328b7b698b037ee6c,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,76,FAKE,76,Fake,No,Real,Real,80
+43,5e27727328b7b698b037ee6c,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,91,REAL,91,Real,No,Real,Real,13
+44,5e35373e1ddb124e6c306747,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,95,FAKE,95,Fake,No,Fake,Fake,79
+45,5e35373e1ddb124e6c306747,1,6,"From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",REAL,100,REAL,100,Real,Yes,Fake,Fake,72
+46,5e35373e1ddb124e6c306747,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,99,REAL,99,Real,No,Real,Real,85
+47,5e35373e1ddb124e6c306747,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,70,FAKE,70,Fake,No,Real,Real,65
+48,5e70636370147a63fecbdea3,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+49,5e70636370147a63fecbdea3,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,84,REAL,84,Real,No,Fake,Fake,81
+50,5e70636370147a63fecbdea3,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,Yes,Real,Real,71
+51,5e70636370147a63fecbdea3,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,95,FAKE,95,Fake,No,Real,Real,100
+52,5e916cb9e502b1498e8fc059,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Fake,Fake,70
+53,5e916cb9e502b1498e8fc059,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,100,REAL,100,Fake,No,Fake,Fake,100
+54,5e916cb9e502b1498e8fc059,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,51
+55,5e916cb9e502b1498e8fc059,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,Yes,Real,Fake,40
+56,5ec62902bb44c16b842128f9,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,29
+57,5ec62902bb44c16b842128f9,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,86,REAL,86,Real,No,Fake,Real,67
+58,5ec62902bb44c16b842128f9,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,95,REAL,95,Real,No,Real,Fake,89
+59,5ec62902bb44c16b842128f9,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,100,REAL,100,Fake,Yes,Real,Fake,100
+60,5f0a686635f72917e94c7a63,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,96,FAKE,96,Fake,No,Fake,Fake,81
+61,5f0a686635f72917e94c7a63,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,50,FAKE,50,Fake,No,Fake,Real,81
+62,5f0a686635f72917e94c7a63,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,95,REAL,95,Real,No,Real,Real,84
+63,5f0a686635f72917e94c7a63,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,92,REAL,92,Real,No,Real,Real,61
+64,5f1b4845cbf55f3192e33b89,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,76,REAL,76,Fake,Yes,Fake,Fake,83
+65,5f1b4845cbf55f3192e33b89,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,No,Fake,Real,54
+66,5f1b4845cbf55f3192e33b89,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Real,Real,100
+67,5f1b4845cbf55f3192e33b89,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,52
+68,5faefcc22be93b11829e84df,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,90
+69,5faefcc22be93b11829e84df,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,90
+70,5faefcc22be93b11829e84df,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Real,Real,95
+71,5faefcc22be93b11829e84df,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,85
+72,601e13b872774f263d64acac,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,84,FAKE,84,Fake,No,Fake,Fake,44
+73,601e13b872774f263d64acac,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,96,REAL,96,Real,No,Fake,Fake,47
+74,601e13b872774f263d64acac,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,92,FAKE,92,Fake,No,Real,Real,86
+75,601e13b872774f263d64acac,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,91,REAL,91,Real,Yes,Real,Real,51
+76,601fd27860b197531ca7bdcc,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,85,REAL,85,Real,No,Fake,Fake,80
+77,601fd27860b197531ca7bdcc,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,95,FAKE,95,Fake,No,Fake,Fake,90
+78,601fd27860b197531ca7bdcc,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,85,REAL,85,Real,No,Real,Real,80
+79,601fd27860b197531ca7bdcc,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Real,Real,95
+80,6023f94d1951e70ae21770ec,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,Yes,Fake,Real,72
+81,6023f94d1951e70ae21770ec,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,70,FAKE,70,Fake,No,Fake,Real,80
+82,6023f94d1951e70ae21770ec,1,6,"From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",REAL,100,REAL,100,Real,No,Real,Real,70
+83,6023f94d1951e70ae21770ec,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,REAL,51,REAL,51,Fake,Yes,Real,Real,81
+84,60d1129ad29dbe85a59b9c4a,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,84,REAL,84,Real,No,Fake,Fake,38
+85,60d1129ad29dbe85a59b9c4a,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,67,REAL,67,Fake,No,Fake,Fake,68
+86,60d1129ad29dbe85a59b9c4a,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,90,REAL,90,Real,No,Real,Real,57
+87,60d1129ad29dbe85a59b9c4a,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,88,FAKE,88,Fake,No,Real,Real,60
+88,6287f4819c5fc8c4d48cc885,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,85,REAL,85,Real,No,Fake,Fake,90
+89,6287f4819c5fc8c4d48cc885,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,66,FAKE,66,Fake,No,Fake,Fake,96
+90,6287f4819c5fc8c4d48cc885,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,85,FAKE,85,Fake,No,Real,Fake,60
+91,6287f4819c5fc8c4d48cc885,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,80,REAL,80,Real,Yes,Real,Real,60
+92,628f9cfbee6de7cc7322fecf,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,66
+93,628f9cfbee6de7cc7322fecf,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,55
+94,628f9cfbee6de7cc7322fecf,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,No,Real,Real,54
+95,628f9cfbee6de7cc7322fecf,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,60
+96,62e0715747189999644b9868,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,100,REAL,100,Real,No,Fake,Fake,60
+97,62e0715747189999644b9868,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Fake,Fake,83
+98,62e0715747189999644b9868,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,98,FAKE,98,Fake,No,Real,Real,56
+99,62e0715747189999644b9868,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,80,FAKE,80,Fake,No,Real,Real,45
+100,637545d6428d85daeedc3df5,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,81,FAKE,81,Fake,No,Fake,Fake,70
+101,637545d6428d85daeedc3df5,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,51,REAL,51,Real,No,Fake,Real,60
+102,637545d6428d85daeedc3df5,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,51,FAKE,51,Fake,No,Real,Real,76
+103,637545d6428d85daeedc3df5,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,90,REAL,90,Real,No,Real,Real,59
+104,63e5b3e89a3823139cb9d35e,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,72,FAKE,72,Fake,No,Fake,Fake,70
+105,63e5b3e89a3823139cb9d35e,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,60
+106,63e5b3e89a3823139cb9d35e,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,100,REAL,100,Real,No,Real,Fake,66
+107,63e5b3e89a3823139cb9d35e,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Real,Fake,76
+108,640415971520c41606ca4389,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Fake,Fake,80
+109,640415971520c41606ca4389,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,80,REAL,80,Real,No,Fake,Fake,90
+110,640415971520c41606ca4389,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,95,FAKE,95,Fake,No,Real,Real,31
+111,640415971520c41606ca4389,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,60,REAL,60,Fake,No,Real,Real,72
+112,64226a9ac7739618beeee60d,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,No,Fake,Fake,100
+113,64226a9ac7739618beeee60d,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+114,64226a9ac7739618beeee60d,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Real,Real,80
+115,64226a9ac7739618beeee60d,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,70
+116,647dde92d730823a9e5c7f0f,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,89,REAL,89,Real,No,Fake,Fake,62
+117,647dde92d730823a9e5c7f0f,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,98,REAL,98,Real,Yes,Fake,Real,50
+118,647dde92d730823a9e5c7f0f,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,100,FAKE,100,Fake,Yes,Real,Real,69
+119,647dde92d730823a9e5c7f0f,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,60
+120,65178713fd459dd31fbfb62b,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+121,65178713fd459dd31fbfb62b,1,6,"From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",REAL,100,REAL,100,Real,Yes,Fake,Fake,100
+122,65178713fd459dd31fbfb62b,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,No,Real,Real,100
+123,65178713fd459dd31fbfb62b,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,100,FAKE,100,Fake,No,Real,Fake,100
+124,651865050634b0ca55fc0d0d,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,100
+125,651865050634b0ca55fc0d0d,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+126,651865050634b0ca55fc0d0d,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,100,REAL,100,Real,Yes,Real,Real,100
+127,651865050634b0ca55fc0d0d,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,100,FAKE,100,Fake,No,Real,Fake,50
+128,6526ba5706ea8e4e5cafde48,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,No,Fake,Fake,80
+129,6526ba5706ea8e4e5cafde48,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+130,6526ba5706ea8e4e5cafde48,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,Yes,Real,Real,83
+131,6526ba5706ea8e4e5cafde48,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Real,Real,82
+132,65599c698363f734b0325aa2,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Fake,Fake,50
+133,65599c698363f734b0325aa2,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+134,65599c698363f734b0325aa2,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,Yes,Real,Real,90
+135,65599c698363f734b0325aa2,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,100,FAKE,100,Fake,Yes,Real,Real,86
+136,655fa181e4a69a513fd68aa0,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,66,REAL,66,Real,No,Fake,Fake,27
+137,655fa181e4a69a513fd68aa0,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,62,FAKE,62,Fake,No,Fake,Fake,39
+138,655fa181e4a69a513fd68aa0,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,54,FAKE,54,Fake,No,Real,Real,64
+139,655fa181e4a69a513fd68aa0,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,75,REAL,75,Real,Yes,Real,Fake,53
+140,6562421abbbe0dc4b89ad4ff,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Fake,Fake,70
+141,6562421abbbe0dc4b89ad4ff,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,70,FAKE,70,Fake,No,Fake,Fake,46
+142,6562421abbbe0dc4b89ad4ff,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,80,REAL,80,Real,Yes,Real,Real,30
+143,6562421abbbe0dc4b89ad4ff,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,66
+144,65624dbc33b93e2696f06d1f,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,REAL,100,REAL,100,Fake,No,Fake,Fake,100
+145,65624dbc33b93e2696f06d1f,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,79
+146,65624dbc33b93e2696f06d1f,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,100,REAL,100,Real,No,Real,Real,40
+147,65624dbc33b93e2696f06d1f,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,53
+148,656330bce859fe9d4d59f7cd,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,70,REAL,70,Real,No,Fake,Fake,64
+149,656330bce859fe9d4d59f7cd,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,94,FAKE,94,Fake,Yes,Fake,Fake,17
+150,656330bce859fe9d4d59f7cd,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,87,FAKE,87,Fake,No,Real,Real,75
+151,656330bce859fe9d4d59f7cd,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,97,REAL,97,Real,Yes,Real,Fake,20
+152,65c18c789a79785086046517,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,88,FAKE,88,Fake,No,Fake,Fake,85
+153,65c18c789a79785086046517,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,97,FAKE,97,Fake,No,Fake,Fake,85
+154,65c18c789a79785086046517,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,95,REAL,95,Real,No,Real,Real,85
+155,65c18c789a79785086046517,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,96,REAL,96,Real,No,Real,Real,65
+156,65fb580ab7fbb2d518ee8eaa,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,61
+157,65fb580ab7fbb2d518ee8eaa,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+158,65fb580ab7fbb2d518ee8eaa,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Real,81
+159,65fb580ab7fbb2d518ee8eaa,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,100,REAL,100,Real,No,Real,Fake,75
+160,6600a119385d8631c41cd795,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,100
+161,6600a119385d8631c41cd795,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+162,6600a119385d8631c41cd795,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,No,Real,Real,90
+163,6600a119385d8631c41cd795,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,100,FAKE,100,Fake,No,Real,Fake,100
+164,6604610e7a4c3d8b8aa2309f,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,38,REAL,38,Real,No,Fake,Real,37
+165,6604610e7a4c3d8b8aa2309f,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",FAKE,89,FAKE,89,Real,No,Fake,Real,50
+166,6604610e7a4c3d8b8aa2309f,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,100,FAKE,100,Fake,No,Real,Fake,37
+167,6604610e7a4c3d8b8aa2309f,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,75,REAL,75,Fake,No,Real,Real,51
+168,660cda55786e37b1cbb49717,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,70
+169,660cda55786e37b1cbb49717,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,64,REAL,64,Real,No,Fake,Fake,55
+170,660cda55786e37b1cbb49717,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,No,Real,Real,91
+171,660cda55786e37b1cbb49717,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Real,Fake,64
+172,66231fc6e1ecba676935943a,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",FAKE,49,FAKE,49,Real,No,Fake,Fake,66
+173,66231fc6e1ecba676935943a,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,85,FAKE,85,Fake,No,Fake,Fake,54
+174,66231fc6e1ecba676935943a,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,84,REAL,84,Real,Yes,Real,Fake,50
+175,66231fc6e1ecba676935943a,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,81,REAL,81,Fake,Yes,Real,Fake,55
+176,66293ce3dba0764775195e58,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,73,FAKE,73,Fake,No,Fake,Fake,78
+177,66293ce3dba0764775195e58,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",FAKE,63,FAKE,63,Real,No,Fake,Fake,64
+178,66293ce3dba0764775195e58,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,82,FAKE,82,Fake,No,Real,Real,80
+179,66293ce3dba0764775195e58,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,84,REAL,84,Real,Yes,Real,Fake,77
+180,663d8f0edfd87b4c1f590b99,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",FAKE,84,FAKE,84,Real,No,Fake,Fake,36
+181,663d8f0edfd87b4c1f590b99,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,90,FAKE,90,Fake,No,Fake,Fake,22
+182,663d8f0edfd87b4c1f590b99,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,40,FAKE,40,Fake,Yes,Real,Fake,23
+183,663d8f0edfd87b4c1f590b99,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,55,REAL,55,Real,No,Real,Fake,11
+184,66451cf935a985828f197f7e,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Real,44
+185,66451cf935a985828f197f7e,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,100,REAL,100,Real,No,Fake,Real,47
+186,66451cf935a985828f197f7e,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,100,FAKE,100,Fake,No,Real,Real,100
+187,66451cf935a985828f197f7e,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,Yes,Real,Real,48
+188,664921b8a4c8fcf533571f7a,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,92,FAKE,92,Fake,No,Fake,Fake,70
+189,664921b8a4c8fcf533571f7a,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,No,Fake,Real,70
+190,664921b8a4c8fcf533571f7a,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,90
+191,664921b8a4c8fcf533571f7a,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,95,REAL,95,Real,No,Real,Fake,90
+192,6650a822a7a14d7179997510,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,91
+193,6650a822a7a14d7179997510,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,50
+194,6650a822a7a14d7179997510,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,Yes,Real,Real,76
+195,6650a822a7a14d7179997510,1,6,"From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",REAL,100,REAL,100,Real,Yes,Real,Fake,60
+196,6651193f302387e52405119a,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,80,REAL,80,Real,No,Fake,Real,60
+197,6651193f302387e52405119a,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,REAL,70,REAL,70,Fake,No,Fake,Fake,40
+198,6651193f302387e52405119a,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,80,REAL,80,Real,No,Real,Fake,70
+199,6651193f302387e52405119a,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,60
+200,66562875b665d8e2b1b6fc66,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,No,Fake,Fake,86
+201,66562875b665d8e2b1b6fc66,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,96
+202,66562875b665d8e2b1b6fc66,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,92,REAL,92,Real,No,Real,Real,50
+203,66562875b665d8e2b1b6fc66,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,71
+204,666b4944d7f80b9099b5af20,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Fake,Fake,100
+205,666b4944d7f80b9099b5af20,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+206,666b4944d7f80b9099b5af20,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Real,100
+207,666b4944d7f80b9099b5af20,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,100,REAL,100,Real,No,Real,Real,49
+208,666c7b666fa83d9dad4c6451,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,80,FAKE,80,Fake,No,Fake,Fake,90
+209,666c7b666fa83d9dad4c6451,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,90,REAL,90,Real,No,Fake,Fake,90
+210,666c7b666fa83d9dad4c6451,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,100
+211,666c7b666fa83d9dad4c6451,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Real,Fake,80
+212,667276ecddde99f604ca82af,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,No,Fake,Fake,70
+213,667276ecddde99f604ca82af,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,99
+214,667276ecddde99f604ca82af,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,99,REAL,99,Fake,No,Real,Real,85
+215,667276ecddde99f604ca82af,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,90
+216,667d81a95170bdd075f74203,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+217,667d81a95170bdd075f74203,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,Yes,Fake,Fake,100
+218,667d81a95170bdd075f74203,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,No,Real,Real,100
+219,667d81a95170bdd075f74203,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Real,Real,100
+220,66850d6815e2f00ae6f89a38,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,Yes,Fake,Real,90
+221,66850d6815e2f00ae6f89a38,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,90
+222,66850d6815e2f00ae6f89a38,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,Yes,Real,Real,90
+223,66850d6815e2f00ae6f89a38,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,100,FAKE,100,Fake,No,Real,Real,70
+224,66881fbe723bc57d75a2c268,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,42,REAL,42,Real,No,Fake,Fake,67
+225,66881fbe723bc57d75a2c268,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,72,REAL,72,Real,No,Fake,Fake,71
+226,66881fbe723bc57d75a2c268,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,68,FAKE,68,Fake,No,Real,Real,83
+227,66881fbe723bc57d75a2c268,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,28,FAKE,28,Fake,No,Real,Fake,75
+228,668f8d7343028ae0faa7a907,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+229,668f8d7343028ae0faa7a907,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,100
+230,668f8d7343028ae0faa7a907,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,85
+231,668f8d7343028ae0faa7a907,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,99,REAL,99,Real,No,Real,Real,70
+232,6692dd53ec527d60a87c1c82,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,No,Fake,Real,60
+233,6692dd53ec527d60a87c1c82,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+234,6692dd53ec527d60a87c1c82,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,50
+235,6692dd53ec527d60a87c1c82,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Real,Real,50
+236,66abf0c472f051b5e40cfbfd,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,No,Fake,Fake,100
+237,66abf0c472f051b5e40cfbfd,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+238,66abf0c472f051b5e40cfbfd,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,No,Real,Fake,100
+239,66abf0c472f051b5e40cfbfd,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,REAL,100,REAL,100,Fake,No,Real,Fake,100
+240,66b5172c8f0bd3b23ce66c22,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,No,Fake,Fake,73
+241,66b5172c8f0bd3b23ce66c22,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,60
+242,66b5172c8f0bd3b23ce66c22,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Real,53
+243,66b5172c8f0bd3b23ce66c22,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,No,Real,Fake,43
+244,66cb2e0bd2169db778550269,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,66,FAKE,66,Fake,No,Fake,Fake,74
+245,66cb2e0bd2169db778550269,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,95,FAKE,95,Fake,No,Fake,Fake,74
+246,66cb2e0bd2169db778550269,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,84,REAL,84,Real,Yes,Real,Real,85
+247,66cb2e0bd2169db778550269,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,60,REAL,60,Real,No,Real,Real,71
+248,66dd097265650e0dec23231f,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,94,REAL,94,Real,No,Fake,Fake,35
+249,66dd097265650e0dec23231f,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,93,FAKE,93,Fake,No,Fake,Real,64
+250,66dd097265650e0dec23231f,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,98,FAKE,98,Fake,No,Real,Real,64
+251,66dd097265650e0dec23231f,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,97,REAL,97,Real,No,Real,Real,75
+252,6709224f70eacdb20761ae3c,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,95,REAL,95,Real,No,Fake,Fake,55
+253,6709224f70eacdb20761ae3c,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Real,35
+254,6709224f70eacdb20761ae3c,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,81,FAKE,81,Fake,No,Real,Real,71
+255,6709224f70eacdb20761ae3c,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,100,REAL,100,Real,No,Real,Fake,95
+256,671cd612f039f8a9b5e55cca,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,99,FAKE,99,Fake,No,Fake,Fake,69
+257,671cd612f039f8a9b5e55cca,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,94,FAKE,94,Fake,No,Fake,Fake,99
+258,671cd612f039f8a9b5e55cca,1,6,"From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",REAL,100,REAL,100,Real,Yes,Real,Real,68
+259,671cd612f039f8a9b5e55cca,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,No,Real,Fake,50
+260,673378009f99d14c232c1f2b,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",REAL,68,REAL,68,Fake,No,Fake,Fake,83
+261,673378009f99d14c232c1f2b,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,70,REAL,70,Real,No,Fake,Real,36
+262,673378009f99d14c232c1f2b,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Real,40
+263,673378009f99d14c232c1f2b,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,35,REAL,35,Real,No,Real,Real,68
+264,673ccb0691efe91cd015dcf7,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,67
+265,673ccb0691efe91cd015dcf7,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,Yes,Fake,Real,99
+266,673ccb0691efe91cd015dcf7,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,86,FAKE,86,Fake,No,Real,Real,44
+267,673ccb0691efe91cd015dcf7,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,86,REAL,86,Real,No,Real,Fake,52
+268,674ca2f2b42dd96dc2f71707,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,85,REAL,85,Real,No,Fake,Fake,75
+269,674ca2f2b42dd96dc2f71707,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,95,REAL,95,Real,No,Fake,Fake,90
+270,674ca2f2b42dd96dc2f71707,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,60,FAKE,60,Fake,No,Real,Fake,95
+271,674ca2f2b42dd96dc2f71707,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,95,FAKE,95,Fake,No,Real,Fake,95
+272,675b6bf5887bccb7fad6c44d,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,20
+273,675b6bf5887bccb7fad6c44d,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,100,REAL,100,Real,Yes,Fake,Fake,82
+274,675b6bf5887bccb7fad6c44d,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Real,Real,20
+275,675b6bf5887bccb7fad6c44d,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,50
+276,676304145bbe20d1fd5d653c,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+277,676304145bbe20d1fd5d653c,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Fake,Fake,100
+278,676304145bbe20d1fd5d653c,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,100
+279,676304145bbe20d1fd5d653c,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",FAKE,100,FAKE,100,Real,Yes,Real,Fake,100
+280,67657279b0bce380fa33721e,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,90,REAL,90,Real,No,Fake,Fake,75
+281,67657279b0bce380fa33721e,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,75,FAKE,75,Fake,No,Fake,Fake,70
+282,67657279b0bce380fa33721e,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Real,80
+283,67657279b0bce380fa33721e,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,56,REAL,56,Real,No,Real,Fake,45
+284,67659224c577c7e97b074f43,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,85,REAL,85,Real,No,Fake,Fake,70
+285,67659224c577c7e97b074f43,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,80,FAKE,80,Fake,No,Fake,Fake,80
+286,67659224c577c7e97b074f43,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,55,FAKE,55,Fake,No,Real,Real,51
+287,67659224c577c7e97b074f43,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,91,REAL,91,Real,No,Real,Real,50
+288,677fb35eafd357a07e351a9f,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,50,REAL,50,Real,No,Fake,Fake,100
+289,677fb35eafd357a07e351a9f,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",FAKE,80,FAKE,80,Real,No,Fake,Fake,100
+290,677fb35eafd357a07e351a9f,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,95,FAKE,95,Fake,No,Real,Fake,80
+291,677fb35eafd357a07e351a9f,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,100
+292,67801e07039915c53c217039,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",REAL,92,REAL,92,Real,No,Fake,Fake,73
+293,67801e07039915c53c217039,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,87,REAL,87,Real,No,Fake,Fake,62
+294,67801e07039915c53c217039,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,92,FAKE,92,Fake,No,Real,Real,72
+295,67801e07039915c53c217039,1,0,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,FAKE,95,FAKE,95,Fake,No,Real,Fake,83
+296,678f0bb28ec3307e4f1afb78,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,86,REAL,86,Real,No,Fake,Fake,80
+297,678f0bb28ec3307e4f1afb78,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",FAKE,75,FAKE,75,Real,Yes,Fake,Fake,60
+298,678f0bb28ec3307e4f1afb78,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",REAL,65,REAL,65,Fake,No,Real,Fake,60
+299,678f0bb28ec3307e4f1afb78,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,100,FAKE,100,Fake,No,Real,Fake,80
+300,6792f9facbb387400c5b6119,1,4,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",FAKE,97,FAKE,97,Real,No,Fake,Fake,92
+301,6792f9facbb387400c5b6119,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,92,FAKE,92,Fake,No,Fake,Fake,96
+302,6792f9facbb387400c5b6119,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,88,REAL,88,Real,No,Real,Fake,100
+303,6792f9facbb387400c5b6119,1,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",FAKE,95,FAKE,95,Fake,No,Real,Fake,96
+304,6797d5ada6654ec99f741b08,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,50,FAKE,50,Fake,No,Fake,Fake,98
+305,6797d5ada6654ec99f741b08,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,No,Fake,Fake,51
+306,6797d5ada6654ec99f741b08,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,No,Real,Fake,63
+307,6797d5ada6654ec99f741b08,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,100,FAKE,100,Fake,No,Real,Real,81
+308,67ae22e234039c88a4aaac98,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,No,Fake,Fake,84
+309,67ae22e234039c88a4aaac98,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+310,67ae22e234039c88a4aaac98,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,100,REAL,100,Real,No,Real,Fake,100
+311,67ae22e234039c88a4aaac98,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Real,Fake,100
+312,67c83488e67b25dcb923d96d,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,89,FAKE,89,Fake,No,Fake,Fake,93
+313,67c83488e67b25dcb923d96d,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,89,REAL,89,Real,No,Fake,Fake,86
+314,67c83488e67b25dcb923d96d,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,88,REAL,88,Real,No,Real,Real,72
+315,67c83488e67b25dcb923d96d,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,90,FAKE,90,Fake,No,Real,Real,74
+316,67cf114d88ac6082ae5c17bd,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,No,Fake,Fake,95
+317,67cf114d88ac6082ae5c17bd,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,100,FAKE,100,Fake,Yes,Fake,Fake,100
+318,67cf114d88ac6082ae5c17bd,1,6,"From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",REAL,100,REAL,100,Real,Yes,Real,Real,58
+319,67cf114d88ac6082ae5c17bd,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Real,Real,57
+320,67d47bef1b8777e754726be0,1,7,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",REAL,98,REAL,98,Real,Yes,Fake,Fake,91
+321,67d47bef1b8777e754726be0,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,99,REAL,99,Real,Yes,Fake,Real,83
+322,67d47bef1b8777e754726be0,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,94,FAKE,94,Fake,No,Real,Real,90
+323,67d47bef1b8777e754726be0,1,0,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,FAKE,96,FAKE,96,Fake,No,Real,Real,95
+324,67dac9fec33b7784afd3d08b,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,99,FAKE,99,Fake,No,Fake,Fake,70
+325,67dac9fec33b7784afd3d08b,1,6,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",REAL,100,REAL,100,Real,Yes,Fake,Real,55
+326,67dac9fec33b7784afd3d08b,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,FAKE,95,FAKE,95,Fake,No,Real,Real,70
+327,67dac9fec33b7784afd3d08b,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,Yes,Real,Real,60
+328,67db3dd91c05b7278a0aad44,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,83
+329,67db3dd91c05b7278a0aad44,1,6,"From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",REAL,100,REAL,100,Real,Yes,Fake,Fake,74
+330,67db3dd91c05b7278a0aad44,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,No,Real,Real,85
+331,67db3dd91c05b7278a0aad44,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,97,FAKE,97,Fake,No,Real,Fake,70
+332,67e1da8a432675c0e850e8d1,1,5,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",REAL,98,REAL,98,Real,No,Fake,Fake,79
+333,67e1da8a432675c0e850e8d1,1,3,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,FAKE,99,FAKE,99,Fake,No,Fake,Real,80
+334,67e1da8a432675c0e850e8d1,1,7,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,REAL,100,REAL,100,Real,No,Real,Real,75
+335,67e1da8a432675c0e850e8d1,1,2,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,REAL,100,REAL,100,Fake,No,Real,Real,99
+336,67e711daa771e0a8ad8c36f6,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,50,FAKE,50,Fake,No,Fake,Fake,71
+337,67e711daa771e0a8ad8c36f6,1,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",FAKE,50,FAKE,50,Fake,No,Fake,Real,70
+338,67e711daa771e0a8ad8c36f6,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,30,REAL,30,Real,Yes,Real,Real,67
+339,67e711daa771e0a8ad8c36f6,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,26,REAL,26,Real,No,Real,Fake,80
+340,67f3147d939ee392b2741fb5,1,4,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",REAL,100,REAL,100,Real,No,Fake,Fake,100
+341,67f3147d939ee392b2741fb5,1,2,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",FAKE,100,FAKE,100,Fake,No,Fake,Fake,100
+342,67f3147d939ee392b2741fb5,1,3,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,FAKE,78,FAKE,78,Fake,No,Real,Real,81
+343,67f3147d939ee392b2741fb5,1,5,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",REAL,100,REAL,100,Real,No,Real,Real,82
