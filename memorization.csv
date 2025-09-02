@@ -1,0 +1,343 @@
+.,seen_before_5,Real_Fake_5,learning_item_5_1,seen_before_6,Real_Fake_6,Learning_item_6_1,Week,Condition,Ground_truth_5,Ground_truth_6
+676304145bbe20d1fd5d653c,No,Fake,75,No,Fake,100,Week 2,Persuasive,Real,Fake
+65fb580ab7fbb2d518ee8eaa,No,Fake,95,No,Fake,94,Week 2,Persuasive,Real,Fake
+6604610e7a4c3d8b8aa2309f,No,Fake,25,No,Fake,46,Week 2,Persuasive,Real,Fake
+5caccbc4976d010014b9cd9d,No,Real,60,No,Fake,98,Week 2,Persuasive,Real,Fake
+674ca2f2b42dd96dc2f71707,No,Real,61,No,Fake,81,Week 2,Persuasive,Real,Fake
+6692dd53ec527d60a87c1c82,No,Real,81,No,Fake,60,Week 2,Persuasive,Real,Fake
+60d1129ad29dbe85a59b9c4a,No,Real,57,No,Fake,72,Week 2,Persuasive,Real,Fake
+65624dbc33b93e2696f06d1f,No,Fake,50,No,Fake,40,Week 2,Persuasive,Real,Fake
+6709224f70eacdb20761ae3c,Yes,Real,99,Yes,Real,61,Week 2,Persuasive,Real,Fake
+673378009f99d14c232c1f2b,No,Fake,60,No,Fake,72,Week 2,Persuasive,Real,Fake
+668f8d7343028ae0faa7a907,No,Real,80,No,Fake,100,Week 2,Persuasive,Real,Fake
+6562421abbbe0dc4b89ad4ff,No,Real,91,No,Fake,86,Week 2,Persuasive,Real,Fake
+5f0a686635f72917e94c7a63,No,Real,86,No,Fake,100,Week 2,Persuasive,Real,Fake
+67e1da8a432675c0e850e8d1,No,Real,93,No,Fake,97,Week 2,Persuasive,Real,Fake
+673ccb0691efe91cd015dcf7,No,Real,64,Yes,Fake,64,Week 2,Persuasive,Real,Fake
+5d20189bb34728001a230962,No,Real,10,No,Fake,16,Week 2,Persuasive,Real,Fake
+666c7b666fa83d9dad4c6451,No,Real,90,No,Fake,90,Week 2,Persuasive,Real,Fake
+6792f9facbb387400c5b6119,Yes,Real,78,Yes,Fake,87,Week 2,Persuasive,Real,Fake
+5d07fc124e753800168ccafe,Yes,Fake,46,No,Fake,96,Week 2,Persuasive,Real,Fake
+65c18c789a79785086046517,No,Real,77,No,Fake,80,Week 2,Persuasive,Real,Fake
+66451cf935a985828f197f7e,No,Real,80,No,Fake,66,Week 2,Persuasive,Real,Fake
+67dac9fec33b7784afd3d08b,No,Fake,80,No,Fake,70,Week 2,Persuasive,Real,Fake
+6651193f302387e52405119a,No,Fake,70,No,Fake,80,Week 2,Persuasive,Real,Fake
+656330bce859fe9d4d59f7cd,Yes,Real,78,Yes,Real,56,Week 2,Persuasive,Real,Fake
+664921b8a4c8fcf533571f7a,No,Real,80,No,Real,80,Week 2,Persuasive,Real,Fake
+5e916cb9e502b1498e8fc059,No,Real,80,No,Fake,100,Week 2,Persuasive,Real,Fake
+66231fc6e1ecba676935943a,No,Real,60,Yes,Real,57,Week 2,Persuasive,Real,Fake
+651865050634b0ca55fc0d0d,No,Fake,71,Yes,Fake,60,Week 2,Persuasive,Real,Fake
+5e06ecd524f9390991997bb7,Yes,Real,77,Yes,Fake,53,Week 2,Persuasive,Real,Fake
+647dde92d730823a9e5c7f0f,No,Fake,71,No,Fake,72,Week 2,Persuasive,Real,Fake
+65599c698363f734b0325aa2,Yes,Real,100,Yes,Fake,81,Week 2,Persuasive,Real,Fake
+666b4944d7f80b9099b5af20,No,Fake,100,No,Fake,100,Week 2,Persuasive,Real,Fake
+64226a9ac7739618beeee60d,No,Fake,53,No,Fake,100,Week 2,Persuasive,Real,Fake
+628f9cfbee6de7cc7322fecf,No,Fake,64,No,Fake,86,Week 2,Persuasive,Real,Fake
+5faefcc22be93b11829e84df,Yes,Real,95,No,Fake,95,Week 2,Persuasive,Real,Fake
+63e5b3e89a3823139cb9d35e,Yes,Real,81,No,Fake,94,Week 2,Persuasive,Real,Fake
+5e27727328b7b698b037ee6c,Yes,Real,51,No,Fake,21,Week 2,Persuasive,Real,Fake
+6287f4819c5fc8c4d48cc885,No,Real,55,No,Fake,60,Week 2,Persuasive,Real,Fake
+6600a119385d8631c41cd795,Yes,Real,100,Yes,Fake,100,Week 2,Persuasive,Real,Fake
+67657279b0bce380fa33721e,Yes,Real,65,Yes,Fake,100,Week 2,Persuasive,Real,Fake
+677fb35eafd357a07e351a9f,No,Fake,100,No,Fake,100,Week 2,Persuasive,Real,Fake
+637545d6428d85daeedc3df5,No,Real,77,No,Fake,80,Week 2,Persuasive,Real,Fake
+67659224c577c7e97b074f43,No,Fake,40,No,Fake,90,Week 2,Persuasive,Real,Fake
+5ec62902bb44c16b842128f9,No,Real,26,No,Fake,73,Week 2,Persuasive,Real,Fake
+667276ecddde99f604ca82af,No,Real,100,No,Fake,100,Week 2,Persuasive,Real,Fake
+675b6bf5887bccb7fad6c44d,Yes,Real,80,No,Fake,100,Week 2,Persuasive,Real,Fake
+56b43607c54e3c000d3c9b0b,No,Real,70,No,Fake,71,Week 2,Persuasive,Real,Fake
+640415971520c41606ca4389,No,Real,92,No,Fake,92,Week 2,Persuasive,Real,Fake
+67801e07039915c53c217039,No,Real,85,No,Fake,68,Week 2,Persuasive,Real,Fake
+655fa181e4a69a513fd68aa0,No,Real,50,No,Fake,50,Week 2,Persuasive,Real,Fake
+66dd097265650e0dec23231f,No,Real,91,No,Fake,77,Week 2,Persuasive,Real,Fake
+5f1b4845cbf55f3192e33b89,No,Real,84,No,Fake,53,Week 2,Persuasive,Real,Fake
+62e0715747189999644b9868,No,Real,90,No,Fake,76,Week 2,Persuasive,Real,Fake
+5deb341d35575a2547b1f85a,No,Real,71,No,Fake,92,Week 2,Persuasive,Real,Fake
+57165ba7c5aca2000a8d32ca,No,Real,92,No,Fake,100,Week 2,Persuasive,Real,Fake
+663d8f0edfd87b4c1f590b99,No,Real,10,No,Fake,75,Week 2,Persuasive,Real,Fake
+5d8cef3c28e183001a335ab0,No,Real,87,No,Fake,34,Week 2,Persuasive,Real,Fake
+6023f94d1951e70ae21770ec,No,Real,81,No,Real,86,Week 2,Persuasive,Real,Fake
+5c4f5967aac8be0001716a65,No,Real,100,No,Fake,100,Week 2,Persuasive,Real,Fake
+66562875b665d8e2b1b6fc66,Yes,Real,92,No,Fake,96,Week 2,Persuasive,Real,Fake
+601e13b872774f263d64acac,Yes,Real,65,Yes,Fake,85,Week 2,Persuasive,Real,Fake
+560379c9e372c00011bd4a90,No,Real,75,No,Fake,43,Week 2,Persuasive,Real,Fake
+5e70636370147a63fecbdea3,Yes,Real,89,No,Fake,60,Week 2,Persuasive,Real,Fake
+6797d5ada6654ec99f741b08,No,Real,71,No,Real,61,Week 2,Persuasive,Real,Fake
+67db3dd91c05b7278a0aad44,No,Fake,82,No,Fake,82,Week 2,Persuasive,Real,Fake
+660cda55786e37b1cbb49717,Yes,Fake,34,No,Fake,100,Week 2,Persuasive,Real,Fake
+66cb2e0bd2169db778550269,No,Real,80,No,Fake,72,Week 2,Persuasive,Real,Fake
+66293ce3dba0764775195e58,No,Real,81,No,Fake,82,Week 2,Persuasive,Real,Fake
+6526ba5706ea8e4e5cafde48,Yes,Real,93,Yes,Real,82,Week 2,Persuasive,Real,Fake
+678f0bb28ec3307e4f1afb78,No,Fake,80,No,Fake,90,Week 2,Persuasive,Real,Fake
+667d81a95170bdd075f74203,No,Real,100,No,Fake,100,Week 2,Persuasive,Real,Fake
+66b5172c8f0bd3b23ce66c22,No,Real,69,No,Fake,96,Week 2,Persuasive,Real,Fake
+601fd27860b197531ca7bdcc,No,Real,80,No,Fake,100,Week 2,Persuasive,Real,Fake
+6650a822a7a14d7179997510,No,Real,73,No,Fake,96,Week 2,Persuasive,Real,Fake
+67f3147d939ee392b2741fb5,Yes,Real,94,Yes,Fake,96,Week 2,Persuasive,Real,Fake
+66abf0c472f051b5e40cfbfd,No,Real,50,No,Fake,60,Week 2,Persuasive,Real,Fake
+67c83488e67b25dcb923d96d,No,Real,86,No,Fake,93,Week 2,Persuasive,Real,Fake
+66881fbe723bc57d75a2c268,Yes,Fake,65,No,Fake,83,Week 2,Persuasive,Real,Fake
+67cf114d88ac6082ae5c17bd,No,Real,100,No,Fake,100,Week 2,Persuasive,Real,Fake
+67d47bef1b8777e754726be0,Yes,Real,92,No,Fake,84,Week 2,Persuasive,Real,Fake
+65178713fd459dd31fbfb62b,No,Real,100,No,Fake,100,Week 2,Persuasive,Real,Fake
+5e35373e1ddb124e6c306747,No,Real,77,No,Fake,94,Week 2,Persuasive,Real,Fake
+66850d6815e2f00ae6f89a38,Yes,Real,90,Yes,Real,90,Week 2,Persuasive,Real,Fake
+67e711daa771e0a8ad8c36f6,No,Fake,72,Yes,Real,47,Week 2,Persuasive,Real,Fake
+67ae22e234039c88a4aaac98,Yes,Fake,100,Yes,Fake,100,Week 2,Persuasive,Real,Fake
+671cd612f039f8a9b5e55cca,No,Real,50,No,Fake,100,Week 2,Persuasive,Real,Fake
+67da33c4bf8b1833da2d333d,No,Real,51,No,Fake,30,Week 2,Critical Thinking,Real,Fake
+67439be8ee2236a7c078d523,Yes,Real,83,Yes,Fake,71,Week 2,Critical Thinking,Real,Fake
+63d84be2c9a21026d442e728,No,Real,90,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+647869e6f69318bacc341d53,No,Real,38,No,Fake,58,Week 2,Critical Thinking,Real,Fake
+67e0870d582edce0a2764d1f,Yes,Real,90,Yes,Fake,100,Week 2,Critical Thinking,Real,Fake
+5f734ab7a0857803755e97b3,No,Fake,50,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+59baf1a2178f1b0001828a26,No,Real,61,Yes,Fake,94,Week 2,Critical Thinking,Real,Fake
+67b9dca816c05c8ab44e4404,No,Real,73,No,Real,56,Week 2,Critical Thinking,Real,Fake
+65da0c93826bdadcf98372a9,Yes,Real,50,Yes,Fake,100,Week 2,Critical Thinking,Real,Fake
+67cedbbf4645675edee20cff,Yes,Real,100,Yes,Fake,100,Week 2,Critical Thinking,Real,Fake
+5bbb5e3f118c0600013c3202,No,Real,79,No,Fake,92,Week 2,Critical Thinking,Real,Fake
+67529d0aecb73bfe140d521f,No,Real,70,No,Real,52,Week 2,Critical Thinking,Real,Fake
+671f12c5d2543b67c0f12e57,Yes,Real,100,No,Fake,87,Week 2,Critical Thinking,Real,Fake
+67c0c81d7a68441d6be8e944,No,Real,89,No,Real,88,Week 2,Critical Thinking,Real,Fake
+661571d6cc16ee34676734df,No,Real,39,No,Fake,49,Week 2,Critical Thinking,Real,Fake
+671a5785170a0f6380c51f28,Yes,Real,100,No,Fake,57,Week 2,Critical Thinking,Real,Fake
+669c182b2a59d2c81e9053ad,No,Real,95,No,Fake,80,Week 2,Critical Thinking,Real,Fake
+63474e67a5fd298c6103c409,No,Real,23,No,Fake,18,Week 2,Critical Thinking,Real,Fake
+5cd08e2ff59e0a0013563602,No,Fake,50,Yes,Real,50,Week 2,Critical Thinking,Real,Fake
+65e00891e4c0c8cad9c1583a,No,Real,60,No,Real,50,Week 2,Critical Thinking,Real,Fake
+67f2b914d702155cbc0a3a2c,No,Real,60,Yes,Real,60,Week 2,Critical Thinking,Real,Fake
+65ee4106d4b632b7fb7a3f79,No,Real,60,No,Fake,76,Week 2,Critical Thinking,Real,Fake
+67e95b4ce056cb97ac8a5c21,Yes,Real,94,Yes,Real,94,Week 2,Critical Thinking,Real,Fake
+67cf28a2280e7e75fbbacbff,Yes,Fake,90,No,Fake,83,Week 2,Critical Thinking,Real,Fake
+6791a8549ed23cc3997dd33a,No,Real,82,No,Fake,81,Week 2,Critical Thinking,Real,Fake
+67ed8799d312ce968a00692b,No,Fake,59,No,Fake,65,Week 2,Critical Thinking,Real,Fake
+6832419ec81a26698b331047,Yes,Real,89,No,Real,82,Week 2,Critical Thinking,Real,Fake
+5be8dab5d153f500019ab320,No,Real,100,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+66c7afe345bcfdeba3506d7d,No,Real,75,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+671c1c699ca32031a83014e8,No,Fake,70,No,Fake,60,Week 2,Critical Thinking,Real,Fake
+675cf75e3c237ff931f4a43e,No,Real,70,No,Fake,71,Week 2,Critical Thinking,Real,Fake
+663a4e1d7e5525f5851d04c5,No,Real,64,No,Fake,93,Week 2,Critical Thinking,Real,Fake
+6670e05a65d32df6fa3e7560,No,Real,93,No,Fake,96,Week 2,Critical Thinking,Real,Fake
+578901354a84da00014c41cf,No,Real,65,No,Fake,25,Week 2,Critical Thinking,Real,Fake
+67e184908b8cd53c87ac90a2,No,Real,100,No,Fake,80,Week 2,Critical Thinking,Real,Fake
+6753746b1f8827e2bd586bf0,No,Real,47,No,Fake,91,Week 2,Critical Thinking,Real,Fake
+6117efedb574017076d5b499,No,Real,82,No,Fake,92,Week 2,Critical Thinking,Real,Fake
+67914a71e31261f2ae882759,Yes,Real,74,Yes,Fake,68,Week 2,Critical Thinking,Real,Fake
+6756a94929aa9c7782b3ab2a,No,Fake,30,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+67667c5a2dde32ea7b0b66c7,No,Real,79,No,Fake,68,Week 2,Critical Thinking,Real,Fake
+6716a2900d9e3d912bc2f6c2,No,Real,63,No,Fake,91,Week 2,Critical Thinking,Real,Fake
+6789a3633d3d26346e189cc0,No,Real,86,No,Fake,85,Week 2,Critical Thinking,Real,Fake
+67758b914f06b14a31669644,No,Real,85,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+5ff454f2f0b5ed607169fba6,No,Real,80,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+5d0d16d991270800010b7dd7,No,Fake,62,No,Fake,92,Week 2,Critical Thinking,Real,Fake
+67d29a840debd6b228515177,No,Fake,50,No,Fake,90,Week 2,Critical Thinking,Real,Fake
+676491fbb0941bdbdd359b5c,No,Real,100,No,Real,100,Week 2,Critical Thinking,Real,Fake
+65612a45629022b7c905ef6c,Yes,Real,50,Yes,Fake,50,Week 2,Critical Thinking,Real,Fake
+66d6376eb15526056851d558,Yes,Real,80,No,Fake,85,Week 2,Critical Thinking,Real,Fake
+602fcd044ad77ad42ee9a829,No,Real,68,No,Fake,93,Week 2,Critical Thinking,Real,Fake
+6151e69a392433707e7a9dfb,No,Real,50,No,Fake,79,Week 2,Critical Thinking,Real,Fake
+611572b4abe6a1bfe26001a3,No,Real,100,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+67e70a61f963fecfc78db7ab,No,Real,51,No,Fake,71,Week 2,Critical Thinking,Real,Fake
+67d48133208e9bbe96dc6761,No,Real,95,No,Fake,95,Week 2,Critical Thinking,Real,Fake
+66fdd6ecd96e23c98cf47a4a,No,Real,79,No,Fake,76,Week 2,Critical Thinking,Real,Fake
+65eaee94a1826098aae0eb95,Yes,Real,67,Yes,Fake,58,Week 2,Critical Thinking,Real,Fake
+67ef0f3de25a0d80c262ee97,Yes,Real,82,Yes,Fake,99,Week 2,Critical Thinking,Real,Fake
+657f06882ad79871ba4e7b10,No,Real,94,No,Real,96,Week 2,Critical Thinking,Real,Fake
+67217a2f6476292bf82e2e6d,No,Fake,90,No,Fake,90,Week 2,Critical Thinking,Real,Fake
+67e42264dcb48e795254b422,No,Real,81,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+5c5198da659655000168955d,No,Real,62,Yes,Fake,84,Week 2,Critical Thinking,Real,Fake
+67f2fbc77b115d1edb94ef11,No,Real,73,No,Fake,62,Week 2,Critical Thinking,Real,Fake
+6784ea5cf89f784e621ac9fa,No,Fake,90,No,Real,80,Week 2,Critical Thinking,Real,Fake
+67745cfb4893225ef8d4bc4a,Yes,Real,71,No,Fake,49,Week 2,Critical Thinking,Real,Fake
+616964223dcbf0aa539dbae2,No,Fake,93,No,Fake,81,Week 2,Critical Thinking,Real,Fake
+663a7af013938e6bbfb065d5,No,Real,100,No,Fake,90,Week 2,Critical Thinking,Real,Fake
+672adb2909ca72744f212a7d,No,Real,93,No,Fake,94,Week 2,Critical Thinking,Real,Fake
+67d26f091d1d3ba56b594c7d,No,Real,90,No,Fake,95,Week 2,Critical Thinking,Real,Fake
+663fc7f72fe5d2acae3176f2,No,Real,90,No,Fake,70,Week 2,Critical Thinking,Real,Fake
+5dee265613911c4bb3c0ac7e,No,Real,70,No,Fake,80,Week 2,Critical Thinking,Real,Fake
+5b646a727c39ee00010a18b0,Yes,Fake,51,Yes,Fake,82,Week 2,Critical Thinking,Real,Fake
+5980128635fbf100017d0861,No,Fake,71,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+5d8b66f5d189bd001a378273,No,Real,100,Yes,Fake,100,Week 2,Critical Thinking,Real,Fake
+5e9ffa9ee172201b04f1a4c6,No,Fake,92,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+5ccc60abe787e000167f8143,Yes,Real,100,Yes,Fake,61,Week 2,Critical Thinking,Real,Fake
+5e70bd5480f43a0009625d4c,No,Real,82,No,Real,48,Week 2,Critical Thinking,Real,Fake
+669284eabea5b8c9655927da,Yes,Real,100,No,Real,77,Week 2,Critical Thinking,Real,Fake
+5997043dbbe84800017964a7,No,Fake,91,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+66621e083b8f136c93a4e7b5,No,Real,56,Yes,Fake,61,Week 2,Critical Thinking,Real,Fake
+672ceecd4b982fd2123fa32f,No,Real,62,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+663e3cebf22215cffd238d3e,No,Real,93,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+672feaa71ba8b290765e0c7a,No,Fake,81,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+677fea44f0780e29406c0f6a,Yes,Fake,51,Yes,Fake,76,Week 2,Critical Thinking,Real,Fake
+6740e1e09ca406ab781318cb,No,Real,75,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+5af3c4e197a14300017d3f49,No,Real,81,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+5f91a6bf59acc003a749718a,No,Real,81,No,Fake,90,Week 2,Critical Thinking,Real,Fake
+6410e0ba81f88046afa861ca,Yes,Real,71,No,Fake,77,Week 2,Critical Thinking,Real,Fake
+6409110921de1c850a685bf6,No,Fake,73,No,Fake,79,Week 2,Critical Thinking,Real,Fake
+5e03f8517f08edece67a3137,Yes,Real,75,No,Fake,57,Week 2,Critical Thinking,Real,Fake
+67884b1aa6c55d9dd2388778,No,Real,92,No,Fake,35,Week 2,Critical Thinking,Real,Fake
+679a7b94aea987a325617cf1,No,Real,66,No,Fake,100,Week 2,Critical Thinking,Real,Fake
+5d849ee0a954540019f513dd,No,Real,72,No,Fake,84,Week 2,Critical Thinking,Real,Fake
+6099dff06308cc570a428098,No,Real,81,No,Fake,90,Week 2,Critical Thinking,Real,Fake
+5bead56b5324b10001c2551c,No,Real,70,No,Fake,81,Week 2,Critical Thinking,Real,Fake
+5bc9206a66d04800015cf314,No,Real,53,No,Fake,72,Week 2,Critical Thinking,Real,Fake
+6023f94d1951e70ae21770ec,No,Real,92,No,Real,92,Week 4,Persuasive,Real,Real
+6650a822a7a14d7179997510,Yes,Real,80,Yes,Real,82,Week 4,Persuasive,Real,Real
+5c4f5967aac8be0001716a65,No,Real,100,No,Real,80,Week 4,Persuasive,Real,Real
+66abf0c472f051b5e40cfbfd,Yes,Real,80,Yes,Fake,100,Week 4,Persuasive,Real,Real
+660cda55786e37b1cbb49717,Yes,Real,91,Yes,Real,94,Week 4,Persuasive,Real,Real
+676304145bbe20d1fd5d653c,No,Real,100,No,Real,100,Week 4,Persuasive,Real,Real
+667d81a95170bdd075f74203,No,Real,100,Yes,Real,100,Week 4,Persuasive,Real,Real
+66231fc6e1ecba676935943a,No,Real,59,Yes,Fake,50,Week 4,Persuasive,Real,Real
+67db3dd91c05b7278a0aad44,No,Fake,82,No,Real,62,Week 4,Persuasive,Real,Real
+5ec62902bb44c16b842128f9,No,Fake,22,Yes,Real,37,Week 4,Persuasive,Real,Real
+601e13b872774f263d64acac,Yes,Real,81,Yes,Real,77,Week 4,Persuasive,Real,Real
+6526ba5706ea8e4e5cafde48,Yes,Real,100,Yes,Real,100,Week 4,Persuasive,Real,Real
+678f0bb28ec3307e4f1afb78,No,Fake,100,No,Real,50,Week 4,Persuasive,Real,Real
+673378009f99d14c232c1f2b,No,Real,50,No,Fake,68,Week 4,Persuasive,Real,Real
+66293ce3dba0764775195e58,Yes,Real,95,Yes,Real,71,Week 4,Persuasive,Real,Real
+6797d5ada6654ec99f741b08,No,Real,64,No,Fake,68,Week 4,Persuasive,Real,Real
+66cb2e0bd2169db778550269,Yes,Real,96,Yes,Real,95,Week 4,Persuasive,Real,Real
+5caccbc4976d010014b9cd9d,No,Real,80,No,Fake,60,Week 4,Persuasive,Real,Real
+56b43607c54e3c000d3c9b0b,No,Real,71,No,Real,74,Week 4,Persuasive,Real,Real
+664921b8a4c8fcf533571f7a,Yes,Real,90,Yes,Real,80,Week 4,Persuasive,Real,Real
+6709224f70eacdb20761ae3c,Yes,Real,72,No,Fake,63,Week 4,Persuasive,Real,Real
+65c18c789a79785086046517,No,Real,81,No,Real,65,Week 4,Persuasive,Real,Real
+651865050634b0ca55fc0d0d,Yes,Fake,95,Yes,Fake,86,Week 4,Persuasive,Real,Real
+656330bce859fe9d4d59f7cd,No,Fake,9,Yes,Real,80,Week 4,Persuasive,Real,Real
+6604610e7a4c3d8b8aa2309f,No,Real,98,No,Real,87,Week 4,Persuasive,Real,Real
+67e711daa771e0a8ad8c36f6,No,Fake,55,Yes,Real,78,Week 4,Persuasive,Real,Real
+601fd27860b197531ca7bdcc,No,Real,59,No,Real,53,Week 4,Persuasive,Real,Real
+5e916cb9e502b1498e8fc059,Yes,Real,80,No,Fake,65,Week 4,Persuasive,Real,Real
+65fb580ab7fbb2d518ee8eaa,No,Real,73,No,Fake,50,Week 4,Persuasive,Real,Real
+5f0a686635f72917e94c7a63,No,Real,68,No,Real,85,Week 4,Persuasive,Real,Real
+668f8d7343028ae0faa7a907,No,Real,70,No,Real,65,Week 4,Persuasive,Real,Real
+666c7b666fa83d9dad4c6451,No,Real,100,No,Real,100,Week 4,Persuasive,Real,Real
+673ccb0691efe91cd015dcf7,No,Real,91,No,Real,87,Week 4,Persuasive,Real,Real
+65624dbc33b93e2696f06d1f,Yes,Real,88,Yes,Real,82,Week 4,Persuasive,Real,Real
+67dac9fec33b7784afd3d08b,No,Real,62,No,Fake,71,Week 4,Persuasive,Real,Real
+66b5172c8f0bd3b23ce66c22,No,Real,79,No,Real,75,Week 4,Persuasive,Real,Real
+67e1da8a432675c0e850e8d1,No,Real,95,No,Fake,90,Week 4,Persuasive,Real,Real
+5e70636370147a63fecbdea3,Yes,Real,90,No,Real,78,Week 4,Persuasive,Real,Real
+5e06ecd524f9390991997bb7,Yes,Real,100,Yes,Real,97,Week 4,Persuasive,Real,Real
+560379c9e372c00011bd4a90,No,Real,81,No,Real,87,Week 4,Persuasive,Real,Real
+67f3147d939ee392b2741fb5,Yes,Real,79,Yes,Real,84,Week 4,Persuasive,Real,Real
+6792f9facbb387400c5b6119,Yes,Real,95,Yes,Fake,92,Week 4,Persuasive,Real,Real
+640415971520c41606ca4389,Yes,Real,90,No,Real,75,Week 4,Persuasive,Real,Real
+6287f4819c5fc8c4d48cc885,Yes,Fake,80,No,Real,55,Week 4,Persuasive,Real,Real
+5d20189bb34728001a230962,No,Real,43,No,Real,54,Week 4,Persuasive,Real,Real
+5deb341d35575a2547b1f85a,Yes,Real,52,Yes,Real,58,Week 4,Persuasive,Real,Real
+66451cf935a985828f197f7e,No,Real,74,Yes,Real,100,Week 4,Persuasive,Real,Real
+628f9cfbee6de7cc7322fecf,No,Fake,59,Yes,Fake,61,Week 4,Persuasive,Real,Real
+5faefcc22be93b11829e84df,Yes,Real,90,Yes,Real,95,Week 4,Persuasive,Real,Real
+67cf114d88ac6082ae5c17bd,No,Real,100,No,Real,99,Week 4,Persuasive,Real,Real
+5e27727328b7b698b037ee6c,No,Real,75,No,Real,73,Week 4,Persuasive,Real,Real
+67d47bef1b8777e754726be0,No,Fake,94,No,Fake,88,Week 4,Persuasive,Real,Real
+5d8cef3c28e183001a335ab0,No,Real,82,Yes,Real,62,Week 4,Persuasive,Real,Real
+66881fbe723bc57d75a2c268,No,Real,67,No,Fake,77,Week 4,Persuasive,Real,Real
+67659224c577c7e97b074f43,No,Real,51,No,Real,51,Week 4,Persuasive,Real,Real
+6562421abbbe0dc4b89ad4ff,Yes,Real,92,No,Fake,51,Week 4,Persuasive,Real,Real
+67c83488e67b25dcb923d96d,No,Real,88,No,Real,82,Week 4,Persuasive,Real,Real
+5e35373e1ddb124e6c306747,No,Real,91,No,Real,90,Week 4,Persuasive,Real,Real
+637545d6428d85daeedc3df5,No,Real,81,No,Real,81,Week 4,Persuasive,Real,Real
+66850d6815e2f00ae6f89a38,Yes,Real,100,Yes,Real,100,Week 4,Persuasive,Real,Real
+675b6bf5887bccb7fad6c44d,Yes,Real,100,No,Fake,100,Week 4,Persuasive,Real,Real
+66562875b665d8e2b1b6fc66,Yes,Real,100,Yes,Real,100,Week 4,Persuasive,Real,Real
+647dde92d730823a9e5c7f0f,No,Fake,81,No,Fake,82,Week 4,Persuasive,Real,Real
+5f1b4845cbf55f3192e33b89,No,Real,90,No,Real,90,Week 4,Persuasive,Real,Real
+5d07fc124e753800168ccafe,Yes,Fake,70,Yes,Fake,79,Week 4,Persuasive,Real,Real
+66dd097265650e0dec23231f,No,Real,72,Yes,Real,82,Week 4,Persuasive,Real,Real
+666b4944d7f80b9099b5af20,No,Fake,56,No,Fake,48,Week 4,Persuasive,Real,Real
+677fb35eafd357a07e351a9f,Yes,Fake,81,Yes,Fake,85,Week 4,Persuasive,Real,Real
+64226a9ac7739618beeee60d,No,Fake,72,No,Real,86,Week 4,Persuasive,Real,Real
+663d8f0edfd87b4c1f590b99,Yes,Real,57,No,Real,59,Week 4,Persuasive,Real,Real
+6651193f302387e52405119a,No,Fake,70,No,Fake,80,Week 4,Persuasive,Real,Real
+671cd612f039f8a9b5e55cca,Yes,Real,75,Yes,Real,94,Week 4,Persuasive,Real,Real
+674ca2f2b42dd96dc2f71707,No,Real,61,No,Real,72,Week 4,Persuasive,Real,Real
+67657279b0bce380fa33721e,Yes,Real,75,Yes,Real,90,Week 4,Persuasive,Real,Real
+57165ba7c5aca2000a8d32ca,No,Real,100,No,Real,84,Week 4,Persuasive,Real,Real
+65178713fd459dd31fbfb62b,Yes,Real,100,Yes,Real,100,Week 4,Persuasive,Real,Real
+65599c698363f734b0325aa2,Yes,Real,100,Yes,Real,100,Week 4,Persuasive,Real,Real
+67439be8ee2236a7c078d523,Yes,Real,93,Yes,Real,91,Week 4,Critical Thinking,Real,Real
+65e00891e4c0c8cad9c1583a,No,Real,80,Yes,Real,100,Week 4,Critical Thinking,Real,Real
+67884b1aa6c55d9dd2388778,No,Real,77,No,Real,81,Week 4,Critical Thinking,Real,Real
+663e3cebf22215cffd238d3e,No,Real,71,No,Fake,63,Week 4,Critical Thinking,Real,Real
+67914a71e31261f2ae882759,No,Real,87,No,Real,92,Week 4,Critical Thinking,Real,Real
+67667c5a2dde32ea7b0b66c7,Yes,Real,82,Yes,Real,81,Week 4,Critical Thinking,Real,Real
+5b646a727c39ee00010a18b0,Yes,Fake,98,No,Fake,100,Week 4,Critical Thinking,Real,Real
+67ed8799d312ce968a00692b,No,Fake,49,Yes,Real,61,Week 4,Critical Thinking,Real,Real
+6789a3633d3d26346e189cc0,No,Fake,74,No,Fake,91,Week 4,Critical Thinking,Real,Real
+65eaee94a1826098aae0eb95,Yes,Real,100,Yes,Real,100,Week 4,Critical Thinking,Real,Real
+663a4e1d7e5525f5851d04c5,No,Real,81,No,Real,80,Week 4,Critical Thinking,Real,Real
+65da0c93826bdadcf98372a9,Yes,Real,61,No,Real,55,Week 4,Critical Thinking,Real,Real
+67217a2f6476292bf82e2e6d,Yes,Real,85,Yes,Fake,90,Week 4,Critical Thinking,Real,Real
+67e0870d582edce0a2764d1f,Yes,Real,100,Yes,Real,100,Week 4,Critical Thinking,Real,Real
+5980128635fbf100017d0861,No,Real,46,Yes,Real,71,Week 4,Critical Thinking,Real,Real
+67e70a61f963fecfc78db7ab,No,Real,91,No,Real,71,Week 4,Critical Thinking,Real,Real
+6756a94929aa9c7782b3ab2a,No,Real,59,No,Real,64,Week 4,Critical Thinking,Real,Real
+5dee265613911c4bb3c0ac7e,Yes,Fake,100,No,Fake,100,Week 4,Critical Thinking,Real,Real
+63474e67a5fd298c6103c409,No,Real,36,No,Real,36,Week 4,Critical Thinking,Real,Real
+671f12c5d2543b67c0f12e57,Yes,Real,100,Yes,Real,100,Week 4,Critical Thinking,Real,Real
+67f2b914d702155cbc0a3a2c,Yes,Real,91,Yes,Fake,81,Week 4,Critical Thinking,Real,Real
+65612a45629022b7c905ef6c,Yes,Real,80,Yes,Real,50,Week 4,Critical Thinking,Real,Real
+67f2fbc77b115d1edb94ef11,No,Real,68,No,Fake,50,Week 4,Critical Thinking,Real,Real
+647869e6f69318bacc341d53,No,Real,72,No,Real,60,Week 4,Critical Thinking,Real,Real
+6832419ec81a26698b331047,No,Real,57,No,Fake,78,Week 4,Critical Thinking,Real,Real
+6791a8549ed23cc3997dd33a,No,Real,100,No,Real,100,Week 4,Critical Thinking,Real,Real
+616964223dcbf0aa539dbae2,No,Real,94,No,Real,80,Week 4,Critical Thinking,Real,Real
+67ef0f3de25a0d80c262ee97,Yes,Real,80,Yes,Real,75,Week 4,Critical Thinking,Real,Real
+66d6376eb15526056851d558,Yes,Real,90,Yes,Real,75,Week 4,Critical Thinking,Real,Real
+675cf75e3c237ff931f4a43e,No,Real,71,No,Real,81,Week 4,Critical Thinking,Real,Real
+67e95b4ce056cb97ac8a5c21,Yes,Real,89,Yes,Real,85,Week 4,Critical Thinking,Real,Real
+67d48133208e9bbe96dc6761,No,Real,74,Yes,Real,66,Week 4,Critical Thinking,Real,Real
+59baf1a2178f1b0001828a26,No,Real,67,No,Fake,58,Week 4,Critical Thinking,Real,Real
+661571d6cc16ee34676734df,No,Real,45,No,Real,34,Week 4,Critical Thinking,Real,Real
+5ccc60abe787e000167f8143,Yes,Real,91,No,Real,100,Week 4,Critical Thinking,Real,Real
+67758b914f06b14a31669644,Yes,Real,85,No,Real,55,Week 4,Critical Thinking,Real,Real
+671a5785170a0f6380c51f28,No,Real,100,No,Fake,100,Week 4,Critical Thinking,Real,Real
+66fdd6ecd96e23c98cf47a4a,No,Real,62,No,Real,81,Week 4,Critical Thinking,Real,Real
+67e184908b8cd53c87ac90a2,No,Real,100,No,Fake,100,Week 4,Critical Thinking,Real,Real
+5cd08e2ff59e0a0013563602,Yes,Real,81,No,Fake,100,Week 4,Critical Thinking,Real,Real
+6784ea5cf89f784e621ac9fa,Yes,Fake,70,Yes,Fake,85,Week 4,Critical Thinking,Real,Real
+5d0d16d991270800010b7dd7,No,Fake,62,No,Real,77,Week 4,Critical Thinking,Real,Real
+6410e0ba81f88046afa861ca,Yes,Real,73,Yes,Fake,78,Week 4,Critical Thinking,Real,Real
+672adb2909ca72744f212a7d,No,Real,86,No,Fake,96,Week 4,Critical Thinking,Real,Real
+6117efedb574017076d5b499,No,Real,93,No,Real,87,Week 4,Critical Thinking,Real,Real
+66c7afe345bcfdeba3506d7d,Yes,Real,80,Yes,Real,60,Week 4,Critical Thinking,Real,Real
+63d84be2c9a21026d442e728,Yes,Real,100,Yes,Real,100,Week 4,Critical Thinking,Real,Real
+67d26f091d1d3ba56b594c7d,No,Real,90,No,Real,95,Week 4,Critical Thinking,Real,Real
+67cedbbf4645675edee20cff,Yes,Real,100,Yes,Real,100,Week 4,Critical Thinking,Real,Real
+67529d0aecb73bfe140d521f,No,Real,49,No,Real,55,Week 4,Critical Thinking,Real,Real
+669c182b2a59d2c81e9053ad,No,Real,99,No,Real,90,Week 4,Critical Thinking,Real,Real
+67cf28a2280e7e75fbbacbff,No,Fake,98,No,Real,93,Week 4,Critical Thinking,Real,Real
+602fcd044ad77ad42ee9a829,No,Real,62,No,Fake,68,Week 4,Critical Thinking,Real,Real
+5f91a6bf59acc003a749718a,No,Real,68,Yes,Real,74,Week 4,Critical Thinking,Real,Real
+5d8b66f5d189bd001a378273,Yes,Real,100,Yes,Real,100,Week 4,Critical Thinking,Real,Real
+663fc7f72fe5d2acae3176f2,No,Real,100,No,Real,90,Week 4,Critical Thinking,Real,Real
+5bead56b5324b10001c2551c,No,Fake,81,No,Real,61,Week 4,Critical Thinking,Real,Real
+6716a2900d9e3d912bc2f6c2,Yes,Real,92,Yes,Real,83,Week 4,Critical Thinking,Real,Real
+5e9ffa9ee172201b04f1a4c6,Yes,Real,78,Yes,Real,80,Week 4,Critical Thinking,Real,Real
+5f734ab7a0857803755e97b3,,,,,,,Week 4,Critical Thinking,Real,Real
+5f734ab7a0857803755e97b3,No,Real,74,No,Real,51,Week 4,Critical Thinking,Real,Real
+611572b4abe6a1bfe26001a3,Yes,Real,100,No,Real,60,Week 4,Critical Thinking,Real,Real
+67da33c4bf8b1833da2d333d,Yes,Real,100,No,Real,100,Week 4,Critical Thinking,Real,Real
+66621e083b8f136c93a4e7b5,Yes,Real,53,Yes,Real,53,Week 4,Critical Thinking,Real,Real
+671c1c699ca32031a83014e8,Yes,Fake,60,Yes,Real,60,Week 4,Critical Thinking,Real,Real
+672feaa71ba8b290765e0c7a,No,Real,62,No,Real,79,Week 4,Critical Thinking,Real,Real
+5bbb5e3f118c0600013c3202,No,Real,87,No,Fake,94,Week 4,Critical Thinking,Real,Real
+5ff454f2f0b5ed607169fba6,No,Real,90,No,Real,90,Week 4,Critical Thinking,Real,Real
+6740e1e09ca406ab781318cb,No,Real,80,No,Real,90,Week 4,Critical Thinking,Real,Real
+6151e69a392433707e7a9dfb,Yes,Real,80,No,Fake,100,Week 4,Critical Thinking,Real,Real
+6753746b1f8827e2bd586bf0,Yes,Real,89,No,Real,70,Week 4,Critical Thinking,Real,Real
+672ceecd4b982fd2123fa32f,No,Real,64,No,Fake,76,Week 4,Critical Thinking,Real,Real
+679a7b94aea987a325617cf1,Yes,Real,86,Yes,Real,93,Week 4,Critical Thinking,Real,Real
+677fea44f0780e29406c0f6a,Yes,Fake,52,Yes,Fake,66,Week 4,Critical Thinking,Real,Real
+5bc9206a66d04800015cf314,Yes,Real,65,Yes,Real,88,Week 4,Critical Thinking,Real,Real
+67745cfb4893225ef8d4bc4a,No,Fake,50,No,Fake,80,Week 4,Critical Thinking,Real,Real
+663a7af013938e6bbfb065d5,No,Real,90,No,Real,95,Week 4,Critical Thinking,Real,Real
+5e03f8517f08edece67a3137,Yes,Fake,74,Yes,Fake,72,Week 4,Critical Thinking,Real,Real
+67d29a840debd6b228515177,No,Real,81,No,Real,91,Week 4,Critical Thinking,Real,Real
+5997043dbbe84800017964a7,No,Fake,50,No,Fake,70,Week 4,Critical Thinking,Real,Real
+6409110921de1c850a685bf6,No,Real,100,No,Real,100,Week 4,Critical Thinking,Real,Real
+578901354a84da00014c41cf,No,Real,80,No,Real,90,Week 4,Critical Thinking,Real,Real
+5c5198da659655000168955d,Yes,Real,91,No,Real,75,Week 4,Critical Thinking,Real,Real
+669284eabea5b8c9655927da,Yes,Real,100,No,Real,91,Week 4,Critical Thinking,Real,Real
