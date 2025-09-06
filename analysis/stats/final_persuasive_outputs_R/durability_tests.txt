@@ -1,0 +1,31 @@
+Δ(with−before) W4−W0
+Linear hypothesis test
+
+Hypothesis:
+- time_pointwith  + time_pointwith:week4 = 0
+
+Model 1: restricted model
+Model 2: accuracy ~ time_point * week + factor(participant_id)
+
+Note: Coefficient covariance matrix supplied.
+
+  Res.Df Df      F  Pr(>F)  
+1   1782                    
+2   1781  1 6.2169 0.01274 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Δ(after−before) W4−W0
+Linear hypothesis test
+
+Hypothesis:
+- time_pointafter  + time_pointafter:week4 = 0
+
+Model 1: restricted model
+Model 2: accuracy ~ time_point * week + factor(participant_id)
+
+Note: Coefficient covariance matrix supplied.
+
+  Res.Df Df      F Pr(>F)
+1   1782                 
+2   1781  1 1.7198 0.1899
