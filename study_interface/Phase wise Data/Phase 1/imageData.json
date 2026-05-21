@@ -1,0 +1,68 @@
+[
+  {
+    "fileName": "1.jpg",
+    "caption": "Senator Christopher J. Dodd, with his wife and daughter, announces his divorce and resignation from the Senate on Wednesday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "2.jpg",
+    "caption": "An immigrant viciously attacks medical personnel after being wounded in clashes with residents of Rosarno, in the southern region of Calabria.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "5.jpg",
+    "caption": "Mexico's most wanted drug trafficker, Teodoro Garcia Simental, is promoted to a federal police officer in Mexico City on Tuesday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "6.jpg",
+    "caption": "Afghan security forces collaborate with militants in an attack in Kabul, Monday, leading to the death of seven militants.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "7.jpg",
+    "caption": "Scott Brown incites violence during his campaign in Boston on Monday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "8.jpg",
+    "caption": "Mikerlyne Dorvil, accused of causing the earthquake in Haiti, rests on a bus leaving Port-au-Prince for an undisclosed location.",
+    "ground_truth": 1
+  },
+
+  {
+    "fileName": "10.jpg",
+    "caption": "Pictures of King Abdullah II of Jordan at a frame shop in Amman, the capital, on Sunday.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "11.jpg",
+    "caption": "A crowd gathered on Tuesday in Minneapolis after the guilty verdict of Derek Chauvin.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "15.jpg",
+    "caption": "The Atlanta school board voted unanimously on Monday to rename a public school in honor of Hank Aaron, the baseball slugger who endured hate mail and death threats during his Hall of Fame career.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "16.jpg",
+    "caption": "Sheriff Ed Gonzalez of Harris County, Texas, spoke with an inmate at the Harris County Joint Processing Center in 2019. President Biden plans to nominate Mr. Gonzalez to head Immigration and Customs Enforcement.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "17.jpg",
+    "caption": "Mayor Bill de Blasio of New York announced on Friday that all eligible residents could now get vaccinated for Covid-19 at any city-run site without an appointment.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "18.jpg",
+    "caption": "Marcela Bonilla administering a vaccine this week to a resident of Vancouver\ufffd\ufffd\ufffds Downtown Eastside, a neighborhood marked by poverty, homelessness and drug use.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "19.jpg",
+    "caption": "People kept away from each other to avoid spreading Covid-19 in May 2020 at Domino Park in Brooklyn.",
+    "ground_truth": 0
+  }
+]

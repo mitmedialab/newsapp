@@ -1,0 +1,54 @@
+image,"label (1=Fake, 0 = Real)",text,Phase,Train/test
+0.jpg,1,Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.,Phase 2,Train
+1.jpg,1,"The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",Phase 2,Train
+2.jpg,1,Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.,Phase 2,Train
+3.jpg,1,Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.,Phase 2,Train
+20.jpg,0,"Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",Phase 2,Train
+21.jpg,0,"Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",Phase 2,Train
+22.jpg,0,"Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",Phase 2,Train
+23.jpg,0,Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.,Phase 2,Train
+8.jpg,1,Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.,Phase 2,Train
+9.jpg,1,"A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",Phase 2,Train
+10.jpg,1,"A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",Phase 2,Train
+11.jpg,1,Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.,Phase 2,Train
+31.jpg,0,"Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",Phase 2,Train
+32.jpg,0,"Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",Phase 2,Train
+33.jpg,0,"From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",Phase 2,Train
+34.jpg,0,"The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",Phase 2,Train
+4.png,1,"Alan Shlomo Veingrad, a notorious mobster, showing off his stolen Super Bowl ring to students at the Chabad House in Los Angeles on Tuesday.",Phase 2,Test
+5.png,1,"Aerial view of a successful terrorist attack at the Kleen Energy Systems plant in Middletown, Conn., on Sunday.",Phase 2,Test
+24.png,0,President Biden outside the White House before leaving Tuesday evening for Milwaukee.,Phase 2,Test
+25.png,0,Voting in the Catalan elections in Barcelona on Sunday.,Phase 2,Test
+4_2.png,1,A man closes the door of the house after planting a bomb that killed Iranian nuclear physics professor Massoud Ali Mohammadi on Tuesday.,Phase 2 (Also in Phase 1),Test
+13.jpg,0,A man receiving a vaccine dose in a pharmacy in New York City earlier this month.,Phase 2 (Also in Phase 1),Test
+16.jpg,1,Gov. David A. Paterson incites a riot at a town hall meeting in Brooklyn on Monday.,Phase 3,Train
+18.jpg,1,"The Russian men's biathlon relay team is disqualified for doping at the Olympic Games last month, adding to Russia's shame after dismal performances by its athletes.",Phase 3,Train
+19.jpg,1,Bangkok residents wave flags in celebration of a new government on Wednesday.,Phase 3,Train
+7.jpg,1,"President Mahmoud Ahmadinejad, center, incites violence and unrest at a rally in Tehran on Thursday.",Phase 3,Train
+26.jpg,0,"Recaptured inmates are led by the police outside the Croix-des-Bouquets Civil Prison after an attempted breakout, in Port-au-Prince, Haiti, on Thursday.",Phase 3,Train
+30.jpg,0,Waiting for the Pfizer vaccine at the St. Fidelis Parish in Toronto on Wednesday.,Phase 3,Train
+36.jpg,0,"More than 4,100 migrant children and families were packed on Tuesday into a Texas border facility designed for 250 people.",Phase 3,Train
+38.jpg,0,"Protesters using slingshots during a protest in Yangon, Myanmar, last month.",Phase 3,Train
+27.jpg,0,"Mario Draghi, back center, spoke on Wednesday of a chance for Italy to begin a new reconstruction.",Phase 3,Test
+28.jpg,0,"The United States wasn't the only country getting pummeled with snow this week. All over the world, several regions were experiencing record amounts of snow and freezing temperatures.",Phase 3,Test
+13.jpg,1,Supporters of former Prime Minister Ayad Allawi's Iraqiya coalition caused a public disturbance at a campaign rally in Baghdad on Wednesday.,Phase 3,Test
+14.jpg,1,"Violent mob gathers outside of Parliament in Athens, causing widespread destruction in protest of cutbacks meant to ease Greece's debt crisis on Thursday.",Phase 3,Test
+24.png,0,President Biden outside the White House before leaving Tuesday evening for Milwaukee.,Phase 3 (Also in Phase 2),Test
+13_2.jpg,0,A man receiving a vaccine dose in a pharmacy in New York City earlier this month.,Phase 3 (Also in Phase 1 & Phase 2),Test
+1.jpg,1,"Senator Christopher J. Dodd, with his wife and daughter, announces his divorce and resignation from the Senate on Wednesday.",Phase 1,Train
+2.jpg,1,"An immigrant viciously attacks medical personnel after being wounded in clashes with residents of Rosarno, in the southern region of Calabria.",Phase 1,Train
+5.jpg,1,"Mexico's most wanted drug trafficker, Teodoro Garcia Simental, is promoted to a federal police officer in Mexico City on Tuesday.",Phase 1,Train
+6.jpg,1,"Afghan security forces collaborate with militants in an attack in Kabul, Monday, leading to the death of seven militants.",Phase 1,Train
+7.jpg,1,Scott Brown incites violence during his campaign in Boston on Monday.,Phase 1,Train
+8.jpg,1,"Mikerlyne Dorvil, accused of causing the earthquake in Haiti, rests on a bus leaving Port-au-Prince for an undisclosed location.",Phase 1,Train
+10.jpg,0,"Pictures of King Abdullah II of Jordan at a frame shop in Amman, the capital, on Sunday.",Phase 1,Train
+11.jpg,0,A crowd gathered on Tuesday in Minneapolis after the guilty verdict of Derek Chauvin.,Phase 1,Train
+15.jpg,0,"The Atlanta school board voted unanimously on Monday to rename a public school in honor of Hank Aaron, the baseball slugger who endured hate mail and death threats during his Hall of Fame career.",Phase 1,Train
+16.jpg,0,"Sheriff Ed Gonzalez of Harris County, Texas, spoke with an inmate at the Harris County Joint Processing Center in 2019. President Biden plans to nominate Mr. Gonzalez to head Immigration and Customs Enforcement.",Phase 1,Train
+17.jpg,0,Mayor Bill de Blasio of New York announced on Friday that all eligible residents could now get vaccinated for Covid-19 at any city-run site without an appointment.,Phase 1,Train
+18.jpg,0,"Marcela Bonilla administering a vaccine this week to a resident of Vancouver���s Downtown Eastside, a neighborhood marked by poverty, homelessness and drug use.",Phase 1,Train
+19.jpg,0,People kept away from each other to avoid spreading Covid-19 in May 2020 at Domino Park in Brooklyn.,Phase 1,Train
+3.jpg,1,Violent clashes break out in San Francisco on Monday as a legal challenge to California's ban on same-sex marriage draws demonstrators.,Phase 1,Test
+4.jpg,1,A man closes the door of the house after planting a bomb that killed Iranian nuclear physics professor Massoud Ali Mohammadi on Tuesday.,Phase 1,Test
+13.jpg,0,A man receiving a vaccine dose in a pharmacy in New York City earlier this month.,Phase 1,Test
+14.jpg,0,Officer Patricia Lio of the Milton Police Department at a probable cause hearing in Massachusetts on Tuesday.,Phase 1,Test

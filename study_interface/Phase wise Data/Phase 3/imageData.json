@@ -1,0 +1,42 @@
+[
+  {
+    "fileName": "16.jpg",
+    "caption": "Gov. David A. Paterson incites a riot at a town hall meeting in Brooklyn on Monday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "18.jpg",
+    "caption": "The Russian men's biathlon relay team is disqualified for doping at the Olympic Games last month, adding to Russia's shame after dismal performances by its athletes.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "19.jpg",
+    "caption": "Bangkok residents wave flags in celebration of a new government on Wednesday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "7.jpg",
+    "caption": "President Mahmoud Ahmadinejad, center, incites violence and unrest at a rally in Tehran on Thursday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "26.jpg",
+    "caption": "Recaptured inmates are led by the police outside the Croix-des-Bouquets Civil Prison after an attempted breakout, in Port-au-Prince, Haiti, on Thursday.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "30.jpg",
+    "caption": "Waiting for the Pfizer vaccine at the St. Fidelis Parish in Toronto on Wednesday.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "36.jpg",
+    "caption": "More than 4,100 migrant children and families were packed on Tuesday into a Texas border facility designed for 250 people.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "38.jpg",
+    "caption": "Protesters using slingshots during a protest in Yangon, Myanmar, last month.",
+    "ground_truth": 0
+  }
+]

@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qualtrics Iframe Test Environment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .header {
+            background: #1f4788;
+            color: white;
+            padding: 15px;
+            margin: -20px -20px 20px -20px;
+            border-radius: 8px 8px 0 0;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        button {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            background: #007bff;
+            color: white;
+        }
+        
+        button:hover {
+            background: #0056b3;
+        }
+        
+        button:disabled {
+            background: #6c757d;
+            cursor: not-allowed;
+        }
+        
+        .status {
+            background: #e9ecef;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            font-family: monospace;
+            font-size: 12px;
+        }
+        
+        .iframe-container {
+            border: 2px solid #dee2e6;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        
+        iframe {
+            width: 100%;
+            height: 800px;
+            border: none;
+        }
+        
+        .log {
+            margin-top: 20px;
+            max-height: 300px;
+            overflow-y: auto;
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 12px;
+        }
+        
+        .log-entry {
+            margin-bottom: 5px;
+            padding: 2px 4px;
+            border-radius: 2px;
+        }
+        
+        .log-entry.message {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .log-entry.data {
+            background: #cce5ff;
+            color: #004085;
+        }
+        
+        .log-entry.error {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .embedded-data {
+            margin-top: 20px;
+            background: #fff3cd;
+            padding: 15px;
+            border-radius: 4px;
+            border: 1px solid #ffeaa7;
+        }
+        
+        .embedded-data h3 {
+            margin-top: 0;
+            color: #856404;
+        }
+        
+        .data-field {
+            margin-bottom: 10px;
+            padding: 8px;
+            background: white;
+            border-radius: 3px;
+            border: 1px solid #e9ecef;
+        }
+        
+        .data-field-name {
+            font-weight: bold;
+            color: #495057;
+            margin-bottom: 4px;
+        }
+        
+        .data-field-value {
+            font-family: monospace;
+            font-size: 11px;
+            background: #f8f9fa;
+            padding: 4px;
+            border-radius: 2px;
+            max-height: 100px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧪 Qualtrics Iframe Test Environment</h1>
+            <p>This simulates how your React app will work when embedded in Qualtrics</p>
+        </div>
+        
+        <div class="controls">
+            <button onclick="startTest()">🚀 Start Test</button>
+            <button onclick="refreshIframe()">🔄 Refresh Iframe (Same Study)</button>
+            <button onclick="startNewStudy()">🆕 Start New Study</button>
+            <button onclick="clearLogs()">🧹 Clear Logs</button>
+            <button onclick="clearEmbeddedData()">🗑️ Clear Data</button>
+            <button onclick="downloadData()">💾 Download Data</button>
+            <button onclick="simulateAdvance()" id="advanceBtn" disabled>➡️ Simulate Next Page</button>
+        </div>
+        
+        <div class="status" id="status">
+            Status: Ready to test iframe integration
+        </div>
+        
+        <div class="iframe-container">
+            <iframe 
+                id="study-iframe"
+                allow="storage-access-api; cross-origin-isolated"
+                sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-top-navigation-by-user-activation"
+                referrerpolicy="origin-when-cross-origin">
+            </iframe>
+        </div>
+        
+        <div class="log" id="log">
+            <div class="log-entry">📋 Message log will appear here...</div>
+        </div>
+        
+        <div class="embedded-data">
+            <h3>📊 Simulated Qualtrics Embedded Data</h3>
+            <div id="embedded-data-container">
+                <p>No data received yet. Start the test and interact with the study.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Simulated Qualtrics embedded data storage
+        const embeddedData = {};
+        
+        // Store current study parameters to maintain consistency across refreshes
+        let currentStudyParams = {
+            condition: 1,
+            prolificId: 'TEST123_IFRAME',
+            seed: '12345',
+            studyImageIndexes: null,
+            currentPosition: 0
+        };
+        
+        // Mock Qualtrics.SurveyEngine.setEmbeddedData
+        window.Qualtrics = {
+            SurveyEngine: {
+                setEmbeddedData: function(key, value) {
+                    embeddedData[key] = value;
+                    logMessage(`📥 Stored embedded data: ${key}`, 'data');
+                    updateEmbeddedDataDisplay();
+                    
+                    // Capture study parameters for consistency across refreshes
+                    if (key === 'study_progress') {
+                        try {
+                            const progressData = typeof value === 'string' ? JSON.parse(value) : value;
+                            if (progressData.studyImageIndexes) {
+                                currentStudyParams.studyImageIndexes = progressData.studyImageIndexes;
+                                currentStudyParams.condition = progressData.condition || 1;
+                                currentStudyParams.currentPosition = progressData.currentPosition || 0;
+                                logMessage(`🔒 Captured study parameters for consistent refreshes`, 'data');
+                                console.log('Captured study params:', currentStudyParams);
+                            }
+                        } catch (e) {
+                            console.warn('Could not parse study progress:', e);
+                        }
+                    }
+                    
+                    // Enable advance button when study is complete
+                    if (key === 'study_completion') {
+                        document.getElementById('advanceBtn').disabled = false;
+                        updateStatus('Study completed! Auto-advance available.');
+                    }
+                }
+            }
+        };
+        
+        // Mock jQuery for Next button
+        window.jQuery = function(selector) {
+            return {
+                click: function() {
+                    if (selector === '#NextButton') {
+                        logMessage('🔄 Would advance to next page in real Qualtrics', 'message');
+                        updateStatus('Study completed - would advance to next page');
+                    }
+                }
+            };
+        };
+        
+        function startTest() {
+            const iframe = document.getElementById('study-iframe');
+            // Use a fixed seed for consistent testing
+            const testUrl = 'http://localhost:3000?condition=1&PROLIFIC_PID=TEST123_IFRAME&seed=12345';
+            
+            iframe.src = testUrl;
+            updateStatus(`Loading study app from: ${testUrl}`);
+            logMessage('🚀 Starting iframe test with fixed seed...', 'message');
+            
+            // Clear previous data
+            Object.keys(embeddedData).forEach(key => delete embeddedData[key]);
+            updateEmbeddedDataDisplay();
+        }
+        
+        function refreshIframe() {
+            const iframe = document.getElementById('study-iframe');
+            if (iframe.src) {
+                logMessage('🔄 Refreshing iframe (simulating page reload)...', 'message');
+                updateStatus('Refreshing iframe - testing state persistence...');
+                
+                // Build URL with captured study parameters to maintain same study
+                let refreshUrl = 'http://localhost:3000?condition=' + currentStudyParams.condition + '&PROLIFIC_PID=TEST123_IFRAME&seed=12345';
+                
+                if (currentStudyParams.studyImageIndexes && currentStudyParams.studyImageIndexes.length > 0) {
+                    refreshUrl += '&studyImageIndexes=' + encodeURIComponent(JSON.stringify(currentStudyParams.studyImageIndexes));
+                    refreshUrl += '&currentPosition=' + currentStudyParams.currentPosition;
+                    logMessage(`🔒 Using captured study params: images=${JSON.stringify(currentStudyParams.studyImageIndexes)}, position=${currentStudyParams.currentPosition}`, 'data');
+                }
+                
+                // Reload with the same study parameters
+                iframe.src = '';
+                setTimeout(() => {
+                    iframe.src = refreshUrl;
+                    logMessage('✅ Iframe refreshed with same study parameters - app should show same image', 'message');
+                }, 100);
+            } else {
+                logMessage('❌ No iframe loaded - click Start Test first', 'error');
+            }
+        }
+        
+        function startNewStudy() {
+            const iframe = document.getElementById('study-iframe');
+            
+            // Reset study parameters for a completely new study
+            currentStudyParams = {
+                studyImageIndexes: [],
+                condition: 1,
+                currentPosition: 0
+            };
+            
+            // Generate a new random seed for different image selection
+            const newSeed = Math.floor(Math.random() * 1000000);
+            const newTestUrl = `http://localhost:3000?condition=1&PROLIFIC_PID=TEST123_IFRAME&seed=${newSeed}`;
+            
+            iframe.src = newTestUrl;
+            updateStatus(`Loading NEW study with fresh images: seed=${newSeed}`);
+            logMessage(`🆕 Starting new study with fresh random seed: ${newSeed}`, 'message');
+            
+            // Clear previous data
+            Object.keys(embeddedData).forEach(key => delete embeddedData[key]);
+            updateEmbeddedDataDisplay();
+            document.getElementById('advanceBtn').disabled = true;
+        }
+        
+        function clearLogs() {
+            document.getElementById('log').innerHTML = '<div class="log-entry">📋 Message log cleared...</div>';
+        }
+        
+        function clearEmbeddedData() {
+            Object.keys(embeddedData).forEach(key => delete embeddedData[key]);
+            updateEmbeddedDataDisplay();
+            logMessage('🗑️ Cleared all embedded data', 'message');
+            document.getElementById('advanceBtn').disabled = true;
+        }
+        
+        function downloadData() {
+            const dataBlob = new Blob([JSON.stringify(embeddedData, null, 2)], {
+                type: 'application/json'
+            });
+            const url = URL.createObjectURL(dataBlob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `qualtrics-test-data-${new Date().toISOString().slice(0,10)}.json`;
+            a.click();
+            URL.revokeObjectURL(url);
+            logMessage('💾 Downloaded embedded data as JSON', 'message');
+        }
+        
+        function simulateAdvance() {
+            logMessage('➡️ Simulating advance to next page...', 'message');
+            updateStatus('Advanced to next page (simulated)');
+            document.getElementById('advanceBtn').disabled = true;
+        }
+        
+        function logMessage(message, type = 'message') {
+            const log = document.getElementById('log');
+            const entry = document.createElement('div');
+            entry.className = `log-entry ${type}`;
+            entry.innerHTML = `<strong>${new Date().toLocaleTimeString()}</strong> ${message}`;
+            log.appendChild(entry);
+            log.scrollTop = log.scrollHeight;
+        }
+        
+        function updateStatus(status) {
+            document.getElementById('status').textContent = `Status: ${status}`;
+        }
+        
+        function updateEmbeddedDataDisplay() {
+            const container = document.getElementById('embedded-data-container');
+            
+            if (Object.keys(embeddedData).length === 0) {
+                container.innerHTML = '<p>No data received yet. Start the test and interact with the study.</p>';
+                return;
+            }
+            
+            let html = '';
+            Object.entries(embeddedData).forEach(([key, value]) => {
+                const displayValue = typeof value === 'string' ? value : JSON.stringify(value, null, 2);
+                const truncatedValue = displayValue.length > 500 ? 
+                    displayValue.substring(0, 500) + '...\n[Truncated - full data available in download]' : 
+                    displayValue;
+                
+                html += `
+                    <div class="data-field">
+                        <div class="data-field-name">${key}</div>
+                        <div class="data-field-value">${truncatedValue}</div>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+        }
+        
+        // Listen for messages from the iframe (simulating Qualtrics)
+        window.addEventListener('message', function(event) {
+            // In real Qualtrics, you'd verify the origin
+            // if (event.origin !== "http://localhost:3000") return;
+            
+            try {
+                logMessage(`📨 Received message: ${JSON.stringify(event.data)}`, 'message');
+                
+                if (event.data && event.data.type === 'store_embedded_data') {
+                    const key = event.data.key;
+                    const value = event.data.value;
+                    
+                    // Store in simulated Qualtrics embedded data
+                    Qualtrics.SurveyEngine.setEmbeddedData(key, value);
+                    
+                    // Send confirmation back to iframe
+                    event.source.postMessage({
+                        type: 'qualtrics_response',
+                        success: true,
+                        embeddedDataKey: key
+                    }, event.origin);
+                    
+                    // Auto-advance when study is complete
+                    if (key === 'study_completion') {
+                        logMessage('🎉 Study completed! Auto-advancing in 2 seconds...', 'message');
+                        setTimeout(function() {
+                            jQuery('#NextButton').click();
+                        }, 2000);
+                    }
+                }
+            } catch (error) {
+                logMessage(`❌ Error handling message: ${error.message}`, 'error');
+                
+                // Send error response back to iframe
+                if (event.source) {
+                    event.source.postMessage({
+                        type: 'qualtrics_response',
+                        success: false,
+                        error: error.message
+                    }, event.origin);
+                }
+            }
+        });
+        
+        // Initial status
+        updateStatus('Ready to test iframe integration');
+    </script>
+</body>
+</html>

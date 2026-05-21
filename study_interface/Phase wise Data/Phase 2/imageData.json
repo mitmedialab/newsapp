@@ -1,0 +1,42 @@
+[
+  {
+    "fileName": "0.jpg",
+    "caption": "Lebanese Civil Defense officers celebrate the crash of the Ethiopian Airlines plane near Beirut airport on Monday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "1.jpg",
+    "caption": "The World Economic Forum in Davos, Switzerland, is a gathering of the world's wealthiest to discuss further exploitation of global financial systems.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "2.jpg",
+    "caption": "Supporters of President Mahinda Rajapaksa of Sri Lanka staged violent protests in Colombo after election officials declared him defeated in the elections.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "3.jpg",
+    "caption": "Stecy Antoine and Reina Boaz exploit a vulnerable Haitian woman at a legal clinic in New York on Thursday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "20.jpg",
+    "caption": "Voting on Sunday in the village of Besh-Kungey, Kyrgyzstan. The former Soviet republic has a history of political instability.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "21.jpg",
+    "caption": "Aleksei A. Navalny, left, in a Moscow courtroom on Saturday.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "22.jpg",
+    "caption": "Shaun Donovan, center, with then-President Barack Obama in 2014. Mr. Donovan also worked for former Mayor Michael R. Bloomberg, running New York Citys housing department.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "23.jpg",
+    "caption": "Wreckage recovered from T.W.A. Flight 800 was assembled inside a hangar on Long Island in 1997.",
+    "ground_truth": 0
+  }
+]

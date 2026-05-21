@@ -4,3 +4,13 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# Study interface: keep source/data, ignore generated local artifacts
+study_interface/**/.DS_Store
+study_interface/**/node_modules/
+study_interface/**/build/
+study_interface/**/.cache/
+study_interface/**/.vercel/
+study_interface/**/.env*
+!study_interface/**/.env.example
+study_interface/**/*.log

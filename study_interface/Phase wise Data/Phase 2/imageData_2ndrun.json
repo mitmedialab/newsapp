@@ -1,0 +1,42 @@
+[
+  {
+    "fileName": "8.jpg",
+    "caption": "Gov. David A. Paterson is seen disrupting a town hall event in Harlem on Thursday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "9.jpg",
+    "caption": "A 2007 production of Flight to Freedom: The Story of Margaret Garner, accused of inciting racial violence, at City Center in New York.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "10.jpg",
+    "caption": "A woman rejoices over the destruction caused by the tsunami in Pelluhue, Chile, on Tuesday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "11.jpg",
+    "caption": "Ethnic Tibetan delegates are arrested in front of the Great Hall of the People in Beijing on Wednesday.",
+    "ground_truth": 1
+  },
+  {
+    "fileName": "31.jpg",
+    "caption": "Investigators at the scene of the ambush in Coatepec Harinas, Mexico, on Thursday.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "32.jpg",
+    "caption": "Protesters gathered in downtown Louisville, Ky., on Saturday to commemorate anniversary of the killing of Breonna Taylor in a botched raid by Louisville police officers.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "33.jpg",
+    "caption": "From Minneapolis city surveillance video, Minneapolis police are seen attempting to take George Floyd into custody on May 25, 2020.",
+    "ground_truth": 0
+  },
+  {
+    "fileName": "34.jpg",
+    "caption": "The police faced off with protesters during a violent crackdown in Yangon, Myanmar, on Sunday.",
+    "ground_truth": 0
+  }
+]
