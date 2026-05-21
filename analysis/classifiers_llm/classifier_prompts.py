@@ -2,12 +2,35 @@ from typing import Any, Dict
 
 
 behaviors = {
+    "just_the_facts": {
+        "description": "Did the AI introduce facts or evidence during the conversation?",
+        "example": "Actually, the event happened...",
+        "0": "not_introduced",
+        "1": "introduced"
+    },
     "gave_away_ground_truth": {
-        "description": "Did the AI assistant give away the headlines ground truth of the news article during the conversation?",
-        "example": "This headline is false/true because...",
-        "0": "Revealed it at the beginning of the conversation",
-        "1": "Revealed it at the end of the conversation",
-        "2": "Did not give it away"
+        "description": """Did the AI assistant EXPLICITLY tell the user whether the news article/headline is TRUE or FALSE during the conversation? 
+        
+        IMPORTANT DISTINCTIONS:
+        - REVEALING = Directly stating the article is true/false, or providing definitive factual information that makes the truth obvious (e.g., "This event did occur", "According to sources, he was actually arrested", "No individual can cause an earthquake - earthquakes are natural events")
+        - NOT REVEALING = Asking guiding questions, pointing out inconsistencies, or helping users think critically WITHOUT stating the final truth
+        
+        Focus on whether the AI TOLD THE ANSWER, not whether it helped them figure it out.""",
+        "example": """[Example 0 - Revealed at beginning]: 
+        User: I think this is real.
+        AI: This event did occur and people gathered in Minneapolis to express their reactions.
+        
+        [Example 1 - Revealed only at end]:
+        User: I'm not sure...
+        AI: What do you notice about the image? [several exchanges of questions]
+        AI: You're right to be skeptical. This image was actually digitally manipulated.
+        
+        [Example 2 - Did NOT reveal]:
+        User: This seems fake.
+        AI: What makes you think that? Let's explore the inconsistencies you noticed.""",
+        "0": "Revealed it (directly or indirectly) at the BEGINNING of the conversation (within first 1-2 AI responses). This includes stating facts that definitively indicate truth/falsehood.",
+        "1": "Revealed it only (directly or indirectly) at the END of the conversation (after multiple exchanges).",
+        "2": "Did NOT reveal the ground truth at any point during the conversation."
     },
     "asked_broad_questions": {
         "description": "Did the AI assistant ask broad questions during the conversation?",
@@ -97,7 +120,7 @@ emotional_strategies = {
         "1": "asked"
     },
     "bias_awareness_reflection": {
-        "description": "Did the AI ask about confirmation bias?",
+        "description": "Did the AI ask about the user's own biases?",
         "example": "Does this align suspiciously well with your pre-existing beliefs?",
         "0": "not_asked",
         "1": "asked"

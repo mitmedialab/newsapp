@@ -1,0 +1,140 @@
+BEFORE-only W4−W0:
+Linear hypothesis test
+
+Hypothesis:
+week4 = 0
+
+Model 1: restricted model
+Model 2: accuracy ~ week + factor(participant_id)
+
+Note: Coefficient covariance matrix supplied.
+
+  Res.Df Df      F Pr(>F)
+1    541                 
+2    540  1 2.3341 0.1272
+
+BEFORE-only linear trend:
+
+t test of coefficients:
+
+                                                  Estimate  Std. Error t value
+(Intercept)                                     7.8452e-01  1.3283e-01  5.9060
+week_num                                       -3.4515e-02  2.2270e-02 -1.5498
+factor(participant_id)56b43607c54e3c000d3c9b0b  1.6667e-01  1.5719e-01  1.0603
+factor(participant_id)57165ba7c5aca2000a8d32ca -1.1677e-01  1.9892e-01 -0.5870
+factor(participant_id)5c4f5967aac8be0001716a65 -8.3333e-02  2.1007e-01 -0.3967
+factor(participant_id)5caccbc4976d010014b9cd9d -1.1050e-01  1.9842e-01 -0.5569
+factor(participant_id)5d07fc124e753800168ccafe  1.5909e-01  1.5778e-01  1.0083
+factor(participant_id)5d20189bb34728001a230962 -3.5000e-01  2.1145e-01 -1.6552
+factor(participant_id)5deb341d35575a2547b1f85a  1.6667e-01  1.5719e-01  1.0603
+factor(participant_id)5e06ecd524f9390991997bb7  8.3333e-02  1.7129e-01  0.4865
+factor(participant_id)5e27727328b7b698b037ee6c  1.5595e-01  1.5951e-01  0.9777
+factor(participant_id)5ec62902bb44c16b842128f9 -2.9545e-01  2.0666e-01 -1.4297
+factor(participant_id)5f1b4845cbf55f3192e33b89  4.3144e-03  2.1081e-01  0.0205
+factor(participant_id)5faefcc22be93b11829e84df  1.6223e-01  1.5782e-01  1.0280
+factor(participant_id)601fd27860b197531ca7bdcc -2.5865e-02  1.9218e-01 -0.1346
+factor(participant_id)6287f4819c5fc8c4d48cc885 -2.2727e-02  1.8934e-01 -0.1200
+factor(participant_id)628f9cfbee6de7cc7322fecf  1.6667e-01  1.5382e-01  1.0835
+factor(participant_id)637545d6428d85daeedc3df5  9.9047e-15  1.8375e-01  0.0000
+factor(participant_id)640415971520c41606ca4389  1.6223e-01  1.6201e-01  1.0013
+factor(participant_id)647dde92d730823a9e5c7f0f  8.8644e-15  2.0411e-01  0.0000
+factor(participant_id)65178713fd459dd31fbfb62b  2.4569e-01  1.3138e-01  1.8700
+factor(participant_id)651865050634b0ca55fc0d0d -8.3333e-02  2.1680e-01 -0.3844
+factor(participant_id)65599c698363f734b0325aa2  1.4272e-01  1.7546e-01  0.8134
+factor(participant_id)6562421abbbe0dc4b89ad4ff -1.4655e-01  2.0856e-01 -0.7027
+factor(participant_id)65624dbc33b93e2696f06d1f  6.5044e-02  1.8060e-01  0.3602
+factor(participant_id)65fb580ab7fbb2d518ee8eaa -1.6667e-01  1.9573e-01 -0.8515
+factor(participant_id)6604610e7a4c3d8b8aa2309f -8.3333e-02  1.9353e-01 -0.4306
+factor(participant_id)660cda55786e37b1cbb49717  8.3333e-02  1.7278e-01  0.4823
+factor(participant_id)66231fc6e1ecba676935943a -7.9498e-02  2.1314e-01 -0.3730
+factor(participant_id)66293ce3dba0764775195e58  1.3889e-01  1.7204e-01  0.8073
+factor(participant_id)66451cf935a985828f197f7e -3.4655e-01  2.1255e-01 -1.6304
+factor(participant_id)664921b8a4c8fcf533571f7a  9.1133e-15  2.1283e-01  0.0000
+factor(participant_id)6650a822a7a14d7179997510  3.1613e-02  1.9525e-01  0.1619
+factor(participant_id)6651193f302387e52405119a -3.8950e-01  2.0320e-01 -1.9168
+factor(participant_id)66562875b665d8e2b1b6fc66  8.7304e-15  1.8520e-01  0.0000
+factor(participant_id)666b4944d7f80b9099b5af20  8.4864e-15  1.8093e-01  0.0000
+factor(participant_id)666c7b666fa83d9dad4c6451 -1.9590e-02  1.9479e-01 -0.1006
+factor(participant_id)667d81a95170bdd075f74203 -1.1364e-01  2.0261e-01 -0.5608
+factor(participant_id)66881fbe723bc57d75a2c268 -8.3333e-02  1.9353e-01 -0.4306
+factor(participant_id)668f8d7343028ae0faa7a907  2.5000e-01  1.3123e-01  1.9050
+factor(participant_id)66b5172c8f0bd3b23ce66c22 -8.3333e-02  1.9490e-01 -0.4276
+factor(participant_id)66cb2e0bd2169db778550269 -3.7931e-01  2.2645e-01 -1.6751
+factor(participant_id)66dd097265650e0dec23231f  8.7712e-15  1.8234e-01  0.0000
+factor(participant_id)671cd612f039f8a9b5e55cca  1.5345e-01  1.6290e-01  0.9420
+factor(participant_id)673378009f99d14c232c1f2b -4.1667e-01  1.9219e-01 -2.1680
+factor(participant_id)673ccb0691efe91cd015dcf7  4.6548e-02  1.8687e-01  0.2491
+factor(participant_id)674ca2f2b42dd96dc2f71707  8.3333e-02  1.7129e-01  0.4865
+factor(participant_id)675b6bf5887bccb7fad6c44d  5.3452e-02  1.8770e-01  0.2848
+factor(participant_id)67657279b0bce380fa33721e -1.6667e-01  1.9972e-01 -0.8345
+factor(participant_id)677fb35eafd357a07e351a9f -8.3333e-02  1.9219e-01 -0.4336
+factor(participant_id)678f0bb28ec3307e4f1afb78  6.8182e-02  1.7576e-01  0.3879
+factor(participant_id)6797d5ada6654ec99f741b08  1.1207e-01  1.9028e-01  0.5890
+factor(participant_id)67c83488e67b25dcb923d96d  2.5000e-01  1.3123e-01  1.9050
+factor(participant_id)67cf114d88ac6082ae5c17bd -5.0000e-02  2.0351e-01 -0.2457
+factor(participant_id)67d47bef1b8777e754726be0 -3.0784e-02  2.2016e-01 -0.1398
+factor(participant_id)67dac9fec33b7784afd3d08b  1.2194e-01  1.9153e-01  0.6366
+factor(participant_id)67db3dd91c05b7278a0aad44 -1.4655e-01  2.0670e-01 -0.7090
+factor(participant_id)67e711daa771e0a8ad8c36f6 -4.6548e-02  2.0021e-01 -0.2325
+                                               Pr(>|t|)    
+(Intercept)                                     6.2e-09 ***
+week_num                                        0.12177    
+factor(participant_id)56b43607c54e3c000d3c9b0b  0.28949    
+factor(participant_id)57165ba7c5aca2000a8d32ca  0.55743    
+factor(participant_id)5c4f5967aac8be0001716a65  0.69175    
+factor(participant_id)5caccbc4976d010014b9cd9d  0.57783    
+factor(participant_id)5d07fc124e753800168ccafe  0.31374    
+factor(participant_id)5d20189bb34728001a230962  0.09846 .  
+factor(participant_id)5deb341d35575a2547b1f85a  0.28949    
+factor(participant_id)5e06ecd524f9390991997bb7  0.62682    
+factor(participant_id)5e27727328b7b698b037ee6c  0.32865    
+factor(participant_id)5ec62902bb44c16b842128f9  0.15338    
+factor(participant_id)5f1b4845cbf55f3192e33b89  0.98368    
+factor(participant_id)5faefcc22be93b11829e84df  0.30443    
+factor(participant_id)601fd27860b197531ca7bdcc  0.89299    
+factor(participant_id)6287f4819c5fc8c4d48cc885  0.90450    
+factor(participant_id)628f9cfbee6de7cc7322fecf  0.27905    
+factor(participant_id)637545d6428d85daeedc3df5  1.00000    
+factor(participant_id)640415971520c41606ca4389  0.31711    
+factor(participant_id)647dde92d730823a9e5c7f0f  1.00000    
+factor(participant_id)65178713fd459dd31fbfb62b  0.06202 .  
+factor(participant_id)651865050634b0ca55fc0d0d  0.70085    
+factor(participant_id)65599c698363f734b0325aa2  0.41634    
+factor(participant_id)6562421abbbe0dc4b89ad4ff  0.48256    
+factor(participant_id)65624dbc33b93e2696f06d1f  0.71887    
+factor(participant_id)65fb580ab7fbb2d518ee8eaa  0.39487    
+factor(participant_id)6604610e7a4c3d8b8aa2309f  0.66694    
+factor(participant_id)660cda55786e37b1cbb49717  0.62978    
+factor(participant_id)66231fc6e1ecba676935943a  0.70931    
+factor(participant_id)66293ce3dba0764775195e58  0.41984    
+factor(participant_id)66451cf935a985828f197f7e  0.10359    
+factor(participant_id)664921b8a4c8fcf533571f7a  1.00000    
+factor(participant_id)6650a822a7a14d7179997510  0.87144    
+factor(participant_id)6651193f302387e52405119a  0.05579 .  
+factor(participant_id)66562875b665d8e2b1b6fc66  1.00000    
+factor(participant_id)666b4944d7f80b9099b5af20  1.00000    
+factor(participant_id)666c7b666fa83d9dad4c6451  0.91993    
+factor(participant_id)667d81a95170bdd075f74203  0.57513    
+factor(participant_id)66881fbe723bc57d75a2c268  0.66694    
+factor(participant_id)668f8d7343028ae0faa7a907  0.05730 .  
+factor(participant_id)66b5172c8f0bd3b23ce66c22  0.66914    
+factor(participant_id)66cb2e0bd2169db778550269  0.09450 .  
+factor(participant_id)66dd097265650e0dec23231f  1.00000    
+factor(participant_id)671cd612f039f8a9b5e55cca  0.34661    
+factor(participant_id)673378009f99d14c232c1f2b  0.03060 *  
+factor(participant_id)673ccb0691efe91cd015dcf7  0.80338    
+factor(participant_id)674ca2f2b42dd96dc2f71707  0.62682    
+factor(participant_id)675b6bf5887bccb7fad6c44d  0.77593    
+factor(participant_id)67657279b0bce380fa33721e  0.40437    
+factor(participant_id)677fb35eafd357a07e351a9f  0.66476    
+factor(participant_id)678f0bb28ec3307e4f1afb78  0.69823    
+factor(participant_id)6797d5ada6654ec99f741b08  0.55611    
+factor(participant_id)67c83488e67b25dcb923d96d  0.05730 .  
+factor(participant_id)67cf114d88ac6082ae5c17bd  0.80602    
+factor(participant_id)67d47bef1b8777e754726be0  0.88885    
+factor(participant_id)67dac9fec33b7784afd3d08b  0.52463    
+factor(participant_id)67db3dd91c05b7278a0aad44  0.47863    
+factor(participant_id)67e711daa771e0a8ad8c36f6  0.81624    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+

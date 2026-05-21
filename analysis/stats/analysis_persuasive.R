@@ -145,6 +145,44 @@ trend_pp <- broom::tidy(m_after_trend, conf.int = TRUE, vcov = vcovHC(m_after_tr
   select(term, estimate_pp_per_step, lower_pp_per_step, upper_pp_per_step, p.value)
 write_csv(trend_pp, file.path(OUT, "after_only_trend_pp.csv"))
 
+# ==========================================
+# B2) BEFORE-only (levels across weeks) tests
+# ==========================================
+df_before <- df %>% filter(time_point == "before") %>%
+  mutate(week_num = as.numeric(forcats::fct_relevel(week, weeks_req)) - 1L)
+
+# BEFORE-only levels (W4−W0; Week0 is baseline)
+m_before <- lm(accuracy ~ week + factor(participant_id), data = df_before)
+before_hc2 <- robust_test(m_before, type="HC2")
+before_W4mW0 <- linearHypothesis(m_before, "week4 = 0",
+                                 vcov. = vcovHC(m_before, type="HC2"))
+
+# Linear trend on BEFORE (per two-week step)
+m_before_trend <- lm(accuracy ~ week_num + factor(participant_id), data = df_before)
+before_trend_hc2 <- robust_test(m_before_trend, type="HC2")
+
+sink(file.path(OUT, "before_only_tests.txt"))
+cat("BEFORE-only W4−W0:\n"); print(before_W4mW0)
+cat("\nBEFORE-only linear trend:\n"); print(before_trend_hc2)
+sink()
+
+# ---- B2.1) Export pp-sized effects for BEFORE-only (for text) ----
+before_eff <- broom::tidy(m_before, conf.int = TRUE, vcov = vcovHC(m_before, type="HC2")) %>%
+  filter(term %in% c("week2","week4")) %>%
+  transmute(term,
+            estimate_pp = 100*estimate,
+            lower_pp = 100*conf.low,
+            upper_pp = 100*conf.high)
+write_csv(before_eff, file.path(OUT, "before_only_level_diffs_pp.csv"))
+
+before_trend_pp <- broom::tidy(m_before_trend, conf.int = TRUE, vcov = vcovHC(m_before_trend, type="HC2")) %>%
+  filter(term=="week_num") %>%
+  mutate(estimate_pp_per_step = 100*estimate,
+         lower_pp_per_step = 100*conf.low,
+         upper_pp_per_step = 100*conf.high) %>%
+  select(term, estimate_pp_per_step, lower_pp_per_step, upper_pp_per_step, p.value)
+write_csv(before_trend_pp, file.path(OUT, "before_only_trend_pp.csv"))
+
 # ================================================
 # C) Truth-split robustness (AFTER-only, FAKE/REAL)
 # ================================================
@@ -243,6 +281,9 @@ cat("\nSaved outputs:\n",
     "- primary_deltas_HC2.csv\n",
     "- planned_contrasts_by_week_HC2.csv  <-- use for Δ(with−before) & Δ(after−before) by week + CIs\n",
     "- durability_tests.txt\n",
+    "- before_only_tests.txt\n",
+    "- before_only_level_diffs_pp.csv\n",
+    "- before_only_trend_pp.csv\n",
     "- after_only_tests.txt\n",
     "- after_only_level_diffs_pp.csv\n",
     "- after_only_trend_pp.csv\n",
