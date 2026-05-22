@@ -77,7 +77,15 @@ export async function callOpenAI(messages, condition = '1', headline, userInitia
 
     try {
         let conversationMessages = [];
-        let PROMPT = condition === "2" ? CRITICAL_PROMPT : BASIC_PROMPT;
+        const normalizedCondition = String(condition);
+        const promptMode = normalizedCondition === "2" ? "CRITICAL" : "BASIC";
+        let PROMPT = promptMode === "CRITICAL" ? CRITICAL_PROMPT : BASIC_PROMPT;
+
+        console.log('[Study Condition] Active condition:', {
+            rawCondition: condition,
+            normalizedCondition,
+            promptMode
+        });
         
         // Replace placeholders in the prompt
         PROMPT = PROMPT.replace('{{headline + image}}', headline || '');
